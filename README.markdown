@@ -1,7 +1,7 @@
 ---
 title:  pankyll-example-content/README.markdown
 author: Christian Külker
-date:   2020-03-22
+date:   2020-03-27
 
 ---
 
@@ -21,9 +21,11 @@ valuable information.
 
 # Changes
 
-Version: Date       Author           Notes
--------- ---------- ---------------- ------------------------------------------
-0.1.0    2020-03-22 Christian Külker initial release
+| Version | Date       | Author           | Notes                             |
+| ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.1   | 2020-03-27 | Christian Külker | change license to FDL 1.3         |
+| 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
+
 
 # Introduction
 
@@ -38,19 +40,11 @@ theme examples by simple `Markdown` files with the ending `*.md`.
 
     Copyright (C) 2020 by Christian Kuelker
 
-    This program is free software; you can redistribute it and/or modify it
-    under the terms of the GNU General Public License as published by the Free
-    Software Foundation; either version 3, or (at your option) any later
-    version.
-
-    This program is distributed in the hope that it will be useful, but WITHOUT
-    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-    FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
-    more details.
-
-    You should have received a copy of the GNU General Public License along
-    with this program; if not, write to the Free Software Foundation, Inc., 59
-    Temple Place, Suite 330, Boston, MA 02111-1307 USA
+Permission is granted to copy, distribute and/or modify this document under the
+terms of the GNU Free Documentation License, Version 1.3 or any later version
+published by the Free Software Foundation; with no Invariant Sections, no
+Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is included
+in the section entitled "GNU Free Documentation License".
 
 # DISCLAIMER OF WARRANTY
 
