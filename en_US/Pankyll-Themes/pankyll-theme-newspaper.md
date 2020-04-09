@@ -28,7 +28,7 @@ paragraph should be considerably.
 ## Prerequisites
 
 > The [pankyll-theme-newspaper] needs the static site generator
-> [`pankyll`](/Pankyll/).
+> [Pankyll].
 
 ## Installation
 
