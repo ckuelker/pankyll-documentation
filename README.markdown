@@ -9,7 +9,7 @@ date:   2020-04-09
 
 This document describes briefly the aim and content of the git repository
 [pankyll-documentation]. The goal of [pankyll-documentation] is to collect
-generic documentation for [Pankyll] and [Pankyll] themes examples by providing
+generic documentation for [Pankyll] and [Pankyll] theme examples by providing
 a git repository with [Markdown] files that explain [Pankyll] and its features
 as well give first stop information about known themes.
 
@@ -35,8 +35,8 @@ their information. A second goal is to use this repository as git-sub
 repository to give content to [Pankyll] theme examples. This repository uses
 two kind of [Markdown] files. The first kind of [Markdown] files describing
 this repository on a meta level and have the ending `*.markdown`. The  second
-kind are the content of this repository that are also used by [Pankyll] itself.
-This files have the ending `*.md`.
+kind represents the content of this repository and is also used by [Pankyll]
+itself. This files have the ending `*.md`.
 
 # Author
 
