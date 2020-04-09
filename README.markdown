@@ -1,36 +1,42 @@
 ---
-title:  pankyll-example-content/README.markdown
+title:  Pankyll Documentation README
 author: Christian Külker
-date:   2020-03-27
+date:   2020-04-09
 
 ---
 
 # Abstract
 
-This document describes briefly the aim and content for
-`pankyll-example-content`.  The goal of pankyll-example-content is to collect
-generic content for pankyll themes examples by providing a git repository with
-markdown files that show the strength of each theme but still providing
-valuable information.
+This document describes briefly the aim and content of the git repository
+[pankyll-documentation]. The goal of [pankyll-documentation] is to collect
+generic documentation for [Pankyll] and [Pankyll] themes examples by providing
+a git repository with [Markdown] files that explain [Pankyll] and its features
+as well give first stop information about known themes.
 
-![Github license](https://img.shields.io/github/license/ckuelker/pankyll-example-content.svg)
-![Github issues](https://img.shields.io/github/issues/ckuelker/pankyll-example-content.svg?style=popout-square)
-![Github code size in bytes](https://img.shields.io/github/languages/code-size/ckuelker/pankyll-example-content.svg)
-![Git repo size](https://img.shields.io/github/repo-size/ckuelker/pankyll-example-content.svg)
-![Last commit](https://img.shields.io/github/last-commit/ckuelker/pankyll-example-content.svg)
+![Github license](https://img.shields.io/github/license/ckuelker/pankyll-documentation.svg)
+![Github issues](https://img.shields.io/github/issues/ckuelker/pankyll-documentation.svg?style=popout-square)
+![Github code size in bytes](https://img.shields.io/github/languages/code-size/ckuelker/pankyll-documentation.svg)
+![Git repo size](https://img.shields.io/github/repo-size/ckuelker/pankyll-documentation.svg)
+![Last commit](https://img.shields.io/github/last-commit/ckuelker/pankyll-documentation.svg)
 
 # Changes
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.2   | 2020-04-09 | Christian Külker | rename to pankyll-documentation   |
 | 0.1.1   | 2020-03-27 | Christian Külker | change license to FDL 1.3         |
 | 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
 
-
 # Introduction
 
-The aim of `pankyll-example-content` is to provide generic content to a pankyll
-theme examples by simple `Markdown` files with the ending `*.md`.
+The first aim of this [pankyll-documentation] repository is to give a central
+hub for [Pankyll] related documentation and also collect [Pankyll] themes and
+their information. A second goal is to use this repository as git-sub
+repository to give content to [Pankyll] theme examples. This repository uses
+two kind of [Markdown] files. The first kind of [Markdown] files describing
+this repository on a meta level and have the ending `*.markdown`. The  second
+kind are the content of this repository that are also used by [Pankyll] itself.
+This files have the ending `*.md`.
 
 # Author
 
@@ -57,7 +63,6 @@ in the section entitled "GNU Free Documentation License".
     SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY
     SERVICING, REPAIR OR CORRECTION.
 
-
 # LIMITATION OF LIABILITY
 
     IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL
@@ -70,3 +75,6 @@ in the section entitled "GNU Free Documentation License".
     EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
     SUCH DAMAGES.
 
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
+[Pankyll]: https://www.pankyll.org
+[pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
