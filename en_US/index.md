@@ -60,6 +60,7 @@ example content, a `Makefile` for easy task repetition and a configuration
 * [Rankle theme example]
 * [Newspaper theme example]
 
+[features]: /en_US/Pankyll/pankyll-features.html
 [git]: https://git-scm.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
@@ -69,10 +70,13 @@ example content, a `Makefile` for easy task repetition and a configuration
 [Pandoc]: https://pandoc.org/
 [Pankyll]: https://www.pankyll.org/
 [pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
+[Pankyll repository]: https://github.com/ckuelker/pankyll
 [PDF]: https://en.wikipedia.org/wiki/PDF
 [Python]:  https://www.python.org/
 [Rankle theme example]: /en_US/Pankyll-Theme-Example/pankyll-theme-rankle-example.html
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [themes]: /en_US/Pankyll-Themes/
+[Themes]: /en_US/Pankyll-Themes/
+[URL]: https://en.wikipedia.org/wiki/URL/
 [YAML]: https://yaml.org/
 
