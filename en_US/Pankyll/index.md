@@ -38,7 +38,7 @@ but also [HTML].
 [Pankyll repository]: https://github.com/ckuelker/pankyll
 [PDF]: https://en.wikipedia.org/wiki/PDF
 [Python]:  https://www.python.org/
-[Rankle theme example]: /en_US/Pankyll-Theme-Example/pankyll-theme-rankle-example.html
+[Rankle theme example]: /en_US/Pankyll-Theme-Examples/pankyll-theme-rankle-example.html
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [themes]: /en_US/Pankyll-Themes/
 [URL]: https://en.wikipedia.org/wiki/URL/
