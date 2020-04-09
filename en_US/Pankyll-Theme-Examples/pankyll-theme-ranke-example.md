@@ -2,6 +2,7 @@
 title: Pankyll Theme Rankle Example
 author: Christian Külker
 date: 2020-04-08
+type: doc
 
 ---
 
