@@ -60,7 +60,7 @@ Point your browser to the [URL] given
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [theme]: /en_US/Pankyll-Themes/
 [themes]: /en_US/Pankyll-Themes/
-[URL]: https://en.wikipedia.org/wiki/URL/
+[URL]: https://en.wikipedia.org/wiki/URL
 [YAML]: https://yaml.org/
 
 

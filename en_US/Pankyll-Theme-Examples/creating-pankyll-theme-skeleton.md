@@ -76,6 +76,6 @@ git submodule update --remote
 [Rankle theme example]: /en_US/Pankyll-Theme-Examples/pankyll-theme-rankle-example.html
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [themes]: /en_US/Pankyll-Themes/
-[URL]: https://en.wikipedia.org/wiki/URL/
+[URL]: https://en.wikipedia.org/wiki/URL
 [YAML]: https://yaml.org/
 
