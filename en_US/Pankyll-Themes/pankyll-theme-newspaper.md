@@ -131,7 +131,6 @@ description:
 [features]: /en_US/Pankyll/pankyll-features.html
 [gettext]: https://www.gnu.org/software/gettext/
 [git]: https://git-scm.com/
-[Git]: https://git-scm.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [Jinja2]: https://jinja.palletsprojects.com/en/2.11.x/
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
@@ -155,7 +154,6 @@ description:
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [theme]: /en_US/Pankyll-Themes/
 [themes]: /en_US/Pankyll-Themes/
-[Themes]: /en_US/Pankyll-Themes/
 [URL]: https://en.wikipedia.org/wiki/URL/
 [YAML]: https://yaml.org/
 
