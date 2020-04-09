@@ -13,18 +13,21 @@ description: A Newspaper Theme
 
 ---
 
-This page describes briefly the aim and content for `pankyll-theme-newspaper`.
-The goal of `pankyll-theme-newspaper` is to show the configuration and usage of
-`pankyll-theme-newspaper` by providing working example with a directory tree
+This page describes briefly the aim and content for [pankyll-theme-newspaper].
+The goal of [pankyll-theme-newspaper] is to show the configuration and usage of
+[pankyll-theme-newspaper] by providing working example with a directory tree
 that can be used as base to build up a site. The lightweight theme's main
 feature is to use columns to display standard text. After one is used to read
 columns, one can read columns faster, as the eye do not lose track of the line
-so often. However this theme do not look good on short texts. The length of a
+so often. However this [theme] do not look good on short texts. The length of a
 paragraph should be considerably.
+
+* [source](https://github.com/ckuelker/pankyll-theme-newspaper/)
+* [git-url](https://github.com/ckuelker/pankyll-theme-newspaper.git)
 
 ## Prerequisites
 
-> The `pankyll-theme-newspaper` needs the static site generator
+> The [pankyll-theme-newspaper] needs the static site generator
 > [`pankyll`](/Pankyll/).
 
 ## Installation
@@ -43,7 +46,7 @@ git clone --recursive https://github.com/ckuelker/pankyll-theme-newspaper.git
 
 ## Usage
 
-The Pankyll theme `newspaper` provides three document types (1) `title`, (2)
+The [Pankyll] [theme] [Newspaper] provides three document types (1) `title`, (2)
 `blog` and (3) `doc`. The document type `title` is probably used only once for
 the project's title page. However in this repository it is also used for other
 pages. The page type `title` has navigational content listed on the right side
@@ -51,15 +54,15 @@ in from of a table of content. While standard news articles should have the
 type `blog` all other, presumably automatically created, pages should either
 have no type assignment (the default assignment is `doc`) or the assignment
 `doc`. The `doc` page type has a either a keyword listing or a siblings page
-listing at the bottom. As mentioned above the main feature of the theme are
+listing at the bottom. As mentioned above the main feature of the [theme] are
 columns. This columns require larger text bodies of several hundreds words
 before looking considerably good. In case there is a paragraph that is rather
-short the Markdown environment for citation can be used. This environment has
+short the [Markdown] environment for citation can be used. This environment has
 'greater as' signs at the left page border.
 
 ## Features Of The Theme
 
-* HTML meta keywords via Markdown front matter
+* [HTML] meta keywords via [Markdown] front matter
 * Column Based Layout
 * Imprint possible
 * Inline Code Highlight
@@ -67,13 +70,13 @@ short the Markdown environment for citation can be used. This environment has
 
 ## Pankyll Features Supported By The Theme
 
-* Markdown front matter
-* Title from `cfg.yaml`, Markdown front matter, ..
-* Author from Markdown front matter
-* Date from Markdown front matter or git
-* Git info
+* [Markdown] front matter
+* Title from `cfg.yaml`, [Markdown] front matter, ..
+* Author from [Markdown] front matter
+* Date from [Markdown] front matter or git
+* [Git] info
 * Keywords (tags and categories in the example)
-* PDF download
+* [PDF] download
 * Code fence syntax highlighting
 * Plain code fences
 * Breadcrumbs
@@ -83,9 +86,9 @@ short the Markdown environment for citation can be used. This environment has
 ### Inline Code Highlight
 
 The 'Inline Code Highlight Feature' brings inline `code` to the foreground by
-changing size and the background color to grey. For this to work the HTML head
+changing size and the background color to grey. For this to work the [HTML] head
 needs to source in (a) `jquery` and (b) the `js/parent.js` `jquery` script that
-changes the class of the HTML `<code>` tag to `<code class="code-inline">`
+changes the class of the [HTML] `<code>` tag to `<code class="code-inline">`
 which is than referenced by `css/default.css`. This works in the following some
 but not all environments.
 
@@ -123,4 +126,36 @@ description:
     ja:
         text: パンキュルのドキュメンテーション
 ```
+
+[example]: /en_US/Pankyll-Theme-Examples
+[features]: /en_US/Pankyll/pankyll-features.html
+[gettext]: https://www.gnu.org/software/gettext/
+[git]: https://git-scm.com/
+[Git]: https://git-scm.com/
+[HTML]: https://en.wikipedia.org/wiki/HTML
+[Jinja2]: https://jinja.palletsprojects.com/en/2.11.x/
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
+[more about Pankyll]: /en_US/Pankyll/
+[Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
+[Newspaper theme example]: https://github.com/ckuelker/pankyll-theme-newspaper-example
+[Newspaper theme example repository]: https://github.com/ckuelker/pankyll-theme-newspaper-example/
+[Newspaper theme example repository URL]: https://github.com/ckuelker/pankyll-theme-newspaper-example.git
+[Newspaper theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
+[Pandoc]: https://pandoc.org/
+[Pankyll]: https://www.pankyll.org/
+[pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
+[Pankyll repository]: https://github.com/ckuelker/pankyll
+[PDF]: https://en.wikipedia.org/wiki/PDF
+[Python]:  https://www.python.org/
+[Python gettext]: https://docs.python.org/3/library/gettext.html
+[Rankle theme example]: /en_US/Pankyll-Theme-Example/pankyll-theme-rankle-example.html
+[Rankle theme example repository]: https://github.com/ckuelker/pankyll-theme-rankle-example/
+[Rankle theme example repository URL]: https://github.com/ckuelker/pankyll-theme-rankle-example.git
+[Rankle theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
+[Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
+[theme]: /en_US/Pankyll-Themes/
+[themes]: /en_US/Pankyll-Themes/
+[Themes]: /en_US/Pankyll-Themes/
+[URL]: https://en.wikipedia.org/wiki/URL/
+[YAML]: https://yaml.org/
 
