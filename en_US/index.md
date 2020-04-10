@@ -2,11 +2,17 @@
 title: Pankyll Documentation and Themes
 author: Christian Külker
 date: 2020-04-09
+type: title
 keywords:
   - Pankyll
   - Pankyll Documentation
   - Pankyll Themes
-type: title
+categories:
+  - documentation
+tags:
+  - Pankyll
+  - Pankyll themes
+  - Pankyll themes examples
 description: Site providing Pankyll documentation and collecting themes
 
 ---
