@@ -31,12 +31,12 @@ to fork the [git] repository and make a pull request.
 
 Some of the more important features are:
 
-* Markdown support
+* [Markdown] support
 * Static [HTML]
 * Automatic [PDF] creation
 * [Theme] support
 * Internationalization and localization
-* Table of content support
+* [Table of contents] support
 * [GitHub] Support
 
 [documentation git repository]: https://github.com/ckuelker/pankyll-documentation
@@ -50,6 +50,7 @@ Some of the more important features are:
 [Pankyll]: https://www.pankyll.org/
 [PDF]: https://en.wikipedia.org/wiki/PDF
 [Python]: https://www.python.org/
+[Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Theme]: /en_US/Pankyll-Themes/
 [Themes]: /en_US/Pankyll-Themes/
 [user documentation]: https://www.pankyll.org/Documentation
