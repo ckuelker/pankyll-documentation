@@ -7,9 +7,9 @@ keywords:
   - Pankyll
   - Pankyll Dokumentation
   - Pankyll Skins
-Kategorien:
+categories:
   - Dokumentation
-Stichworte:
+tags:
   - Pankyll
   - Pankyll Skins
   - Pankyll Skin Beispiele
