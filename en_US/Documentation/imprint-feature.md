@@ -14,24 +14,23 @@ an imprint page wherever they see fit.
 ## How It Works
 
 [Pankyll] provides the [Jinja2] variables  `has_imprint`, `imprint_url` and
-`imprint_text` and internally used `imprint_dir`.  The configuration provides a
-directory key `url`. This is needed, because there are cases where a git
-repository is used in different cases: (a) as an example content (without
-imprint site) and (b) as a real deployed site (with imprint page). Pankyll will
-dispatch this cases by the existence of this file or directory. If the
-directory or files do not exist (or the whole imprint configuration) the
-`has_imprint` will be set to `False` and the `imprint_url` and `imprint_text`
-will be set (for now) to the values of the [home feature], but should not be
-used by a theme.
+`imprint_text`. The configuration provides a directory key `url`. This is
+needed, because there are cases where a git repository is used in different
+cases: (a) as an example content (without imprint site) and (b) as a real
+deployed site (with imprint page). Pankyll will dispatch this cases by the
+existence of this file or directory. If the directory or files do not exist (or
+the whole imprint configuration) the `has_imprint` will be set to `False` and
+the `imprint_url` and `imprint_text` will be set (for now) to the values of the
+[home feature], but should not be used by a theme.
 
 The key `has_imprint` will be set to `True` if the site
 configuration `cfg.yaml` fulfill the following criteria:
 
-* has key `has_imprint`
-* the `has_imprint` has current locale key (e.g. `de_DE`)
+* has the key `imprint`
+* the key `imprint` has the current locale key (e.g. `de_DE`)
 * the current locale key has `url` key
 * the current locale key has `text` key
-* the directory or file of the `url` key exists 
+* the directory or file of the `url` key exists
 
 See `cfg.yaml` example below
 
