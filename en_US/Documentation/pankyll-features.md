@@ -15,6 +15,26 @@ description: Pankyll Feature Documentation
 > WORK IN PROGRESS This document describes the features of [Pankyll] in a
 > comprehensive way.
 
+## List of Features
+
+| Number | Feature                 | Notes                                 |
+| -------| ----------------------- | ------------------------------------- |
+| 0      | Default                 | Default values for site cfg.yaml      |
+| 1      | Site                    | Site wide configuration in cfg.yaml   |
+| 2      | Internationalization    | Prepare Pankyll for localization      |
+| 3      | [Imprint]               | URL + text for imprint page           |
+| 4      | Home                    | URL + text for site root link         |
+| 5      | Navigation              | URL + text for navigation bar         |
+| 6      | Table of contents       | Text for Table of contents title      |
+| 7      | Keywords                | Types of keywords (tags, ...)         |
+| 8      | More Menue              | URL + text for a menu called More     |
+| 9      | Site Description        | description for Home feature          |
+| 10     | Footer                  | URL, text + position footer links     |
+
+[Imprint]: /en_US/Documentation/imprint-feature.html
+
+## Feature Scopes
+
 | Feature                 | cfg.yaml           | Front Matter | Mandatory |
 |------------------------ | ------------------ | ------------ | --------- |
 | Site                    | site:              |              | yes       |
