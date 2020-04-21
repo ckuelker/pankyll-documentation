@@ -17,7 +17,6 @@ description: このサイドはパンキュルのドキュメンテーション�
 
 ---
 
-
 [パンキュル]は、[Python]で記述された静的[HTML]サイト・ジェネレーターです。
 [Pandoc]を使用して、[Mardown]のファイルを[PDF]に変換します。
 このWebサイトでは、使用方法とインストールに関するドキュメントを提供しています。
@@ -26,7 +25,7 @@ description: このサイドはパンキュルのドキュメンテーション�
 [スキン]を作成して発表したい場合は、[このリポジトリ]がforkをして、
 そして、pull requestをして下さい。　
 
-## 特徴点:
+## 特徴点
 
 * [Markdown]のサポート
 * 静的な[HTML]
@@ -34,7 +33,6 @@ description: このサイドはパンキュルのドキュメンテーション�
 * [スキン]のサポート
 * [目次]のサポート
 * [GitHub]のサポート
-
 
 [Github]: https://github.com
 [HTML]: https://en.wikipedia.org/wiki/HTML

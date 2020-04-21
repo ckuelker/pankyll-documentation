@@ -83,7 +83,7 @@ more:
 
 ```
 
-[example]: /en_US/Pankyll-Theme-Examples
+[example]: /en_US/Example-Sites
 [features]: /en_US/Pankyll/pankyll-features.html
 [gettext]: https://www.gnu.org/software/gettext/
 [git]: https://git-scm.com/
@@ -103,7 +103,7 @@ more:
 [PDF]: https://en.wikipedia.org/wiki/PDF
 [Python]:  https://www.python.org/
 [Python gettext]: https://docs.python.org/3/library/gettext.html
-[Rankle theme example]: /en_US/Pankyll-Theme-Examples/pankyll-theme-rankle-example.html
+[Rankle theme example]: /en_US/Example-Sites/pankyll-theme-rankle-example.html
 [Rankle theme example repository]: https://github.com/ckuelker/pankyll-theme-rankle-example/
 [Rankle theme example repository URL]: https://github.com/ckuelker/pankyll-theme-rankle-example.git
 [Rankle theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html

@@ -39,7 +39,7 @@ Point your browser to the [URL] given
 [example]: /en_US/Example-Sites/
 [Pankyll]: https://www.pankyll.org/
 [Simplicissimus]: /en_US/Pankyll-Themes/pankyll-theme-simplicissimus.html
-[Simplicissimus theme example]: /en_US/Pankyll-Theme-Examples/pankyll-theme-simplicissimus-example.html
+[Simplicissimus theme example]: /en_US/Example-Sites/pankyll-theme-simplicissimus-example.html
 [Simplicissimus theme example repository]: https://github.com/ckuelker/pankyll-theme-simplicissimus-example/
 [Simplicissimus theme example repository URL]: https://github.com/ckuelker/pankyll-theme-simplicissimus-example.git
 [Simplicissimus theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-simplicissimus.html

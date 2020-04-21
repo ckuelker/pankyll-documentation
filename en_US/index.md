@@ -41,7 +41,7 @@ Some of the more important features are:
 
 [documentation git repository]: https://github.com/ckuelker/pankyll-documentation
 [documentation]: https://www.pankyll.org/en_US/Documentation
-[example]: https://www.pankyll.org/en_US/Pankyll-Theme-Examples
+[example]: https://www.pankyll.org/en_US/Example-Sites
 [git]: https://en.wikipedia.org/wiki/Git
 [Github]: https://github.com
 [HTML]: https://en.wikipedia.org/wiki/HTML

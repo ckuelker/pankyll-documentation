@@ -44,7 +44,7 @@ Einige der wichtigeren Features von [Pankyll] sind:
 
 [Archivs]: https://github.com/ckuelker/pankyll-documentation
 [Benutzer Dokumentation]: https://www.pankyll.org/en_US/Documentation
-[Beispiel]: https://www.pankyll.org/en_US/Pankyll-Theme-Examples
+[Beispiel]: https://www.pankyll.org/en_US/Example-Sites
 [Dokumentations-Git-Archivs]: https://github.com/ckuelker/pankyll-documentation
 [git]: https://de.wikipedia.org/wiki/Git
 [Github]: https://github.com
