@@ -9,7 +9,7 @@ tags:
  - Newspaper
 categories:
  - Theme
-description: A Newspaper Theme
+description: A Newspaper theme
 
 ---
 
