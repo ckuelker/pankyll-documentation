@@ -21,7 +21,7 @@ plain HTML. Nothing more, noting less.
 
 ## Installation
 
-In your project (assuming your project is called project):
+Enter your project (assuming your project is called project):
 
 ```shell
 cd project
