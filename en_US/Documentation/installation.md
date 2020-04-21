@@ -15,6 +15,7 @@ tags:
     - Jinja2
     - YAML
     - Pandoc
+description: Pankyll installation on Debian via git and package manager
 
 ---
 
