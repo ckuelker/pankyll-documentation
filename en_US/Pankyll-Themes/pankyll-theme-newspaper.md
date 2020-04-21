@@ -127,33 +127,16 @@ description:
         text: パンキュルのドキュメンテーション
 ```
 
-[example]: /en_US/Pankyll-Theme-Examples
-[features]: /en_US/Pankyll/pankyll-features.html
-[gettext]: https://www.gnu.org/software/gettext/
 [git]: https://git-scm.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
-[Jinja2]: https://jinja.palletsprojects.com/en/2.11.x/
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
-[more about Pankyll]: /en_US/Pankyll/
 [Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
 [Newspaper theme example]: https://github.com/ckuelker/pankyll-theme-newspaper-example
 [Newspaper theme example repository]: https://github.com/ckuelker/pankyll-theme-newspaper-example/
 [Newspaper theme example repository URL]: https://github.com/ckuelker/pankyll-theme-newspaper-example.git
 [Newspaper theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
-[Pandoc]: https://pandoc.org/
+[pankyll-theme-newspaper]:
 [Pankyll]: https://www.pankyll.org/
-[pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
-[Pankyll repository]: https://github.com/ckuelker/pankyll
 [PDF]: https://en.wikipedia.org/wiki/PDF
-[Python]:  https://www.python.org/
-[Python gettext]: https://docs.python.org/3/library/gettext.html
-[Rankle theme example]: /en_US/Pankyll-Theme-Examples/pankyll-theme-rankle-example.html
-[Rankle theme example repository]: https://github.com/ckuelker/pankyll-theme-rankle-example/
-[Rankle theme example repository URL]: https://github.com/ckuelker/pankyll-theme-rankle-example.git
-[Rankle theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
-[Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
 [theme]: /en_US/Pankyll-Themes/
-[themes]: /en_US/Pankyll-Themes/
-[URL]: https://en.wikipedia.org/wiki/URL
-[YAML]: https://yaml.org/
 

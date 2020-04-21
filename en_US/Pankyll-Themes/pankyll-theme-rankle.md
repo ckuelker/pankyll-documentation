@@ -25,6 +25,14 @@ distinct sections.
 * [git-url](https://github.com/ckuelker/pankyll-theme-rankle.git)
 
 
+## Installation
+
+### Prerequisites
+
+
+
+
+
 ## I18n
 
 [Pankyll] uses [Jinja2] templates with [gettext] support for i18n by using the
