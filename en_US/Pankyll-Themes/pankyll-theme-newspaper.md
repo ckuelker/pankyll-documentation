@@ -135,7 +135,7 @@ description:
 [Newspaper theme example repository]: https://github.com/ckuelker/pankyll-theme-newspaper-example/
 [Newspaper theme example repository URL]: https://github.com/ckuelker/pankyll-theme-newspaper-example.git
 [Newspaper theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
-[pankyll-theme-newspaper]:
+[pankyll-theme-newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
 [Pankyll]: https://www.pankyll.org/
 [PDF]: https://en.wikipedia.org/wiki/PDF
 [theme]: /en_US/Pankyll-Themes/
