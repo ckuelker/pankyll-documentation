@@ -1,8 +1,15 @@
 ---
 title: Pankyll Theme Simplicissimus Example
 author: Christian Külker
-date: 2020-04-21 
-type: doc
+date: 2020-04-21
+type: blog
+keywords:
+ - Pankyll Theme Simplicissimus Example
+tags:
+ - Simplicissimus
+categories:
+ - Theme
+description: A simple theme example
 
 ---
 

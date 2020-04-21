@@ -2,7 +2,14 @@
 title: Pankyll Theme Newspaper Example
 author: Christian Külker
 date: 2020-04-08
-type: doc
+type: blog
+keywords:
+ - Pankyll Theme Newspaper Example
+tags:
+ - Newspaper
+categories:
+ - Theme
+description: A Newspaper theme example
 
 ----
 
