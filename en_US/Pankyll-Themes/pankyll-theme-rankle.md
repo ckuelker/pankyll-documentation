@@ -1,7 +1,7 @@
 ---
 title: Pankyll Theme Rankle
 author: Christian Külker
-date: 2020-03-25
+date: 2020-04-24
 type: blog
 keywords:
  - Pankyll Theme Rankle
@@ -24,14 +24,9 @@ distinct sections.
 * [soucre](https://github.com/ckuelker/pankyll-theme-rankle/)
 * [git-url](https://github.com/ckuelker/pankyll-theme-rankle.git)
 
-
 ## Installation
 
 ### Prerequisites
-
-
-
-
 
 ## I18n
 
@@ -41,7 +36,11 @@ distinct sections.
 **Old - python-brace-format:**
 
 ```html
-{% if wordcount and wordcount > 99 %}<li>A  {{ngettext('{num} word','{num} words', wordcount).format(num=wordcount)}}  </li>{% endif %}
+{% if wordcount and wordcount > 99 %}
+<li>
+  A  {{ngettext('{num} word','{num} words', wordcount).format(num=wordcount)}}
+</li>
+{% endif %}
 ```
 
 ```po
@@ -52,11 +51,14 @@ msgstr[0] "{num} Wort"
 msgstr[1] "{num} Worte"
 ```
 
-
 **New - python-format:**
 
 ```html
-{% if wordcount and wordcount > 99 %}<li>B  {{ngettext("%(num)d word","%(num)d words", wordcount)}}  </li>{% endif %}
+{% if wordcount and wordcount > 99 %}
+<li>
+  B  {{ngettext("%(num)d word","%(num)d words", wordcount)}}
+</li>
+{% endif %}
 ```
 
 ```po
@@ -65,15 +67,13 @@ msgid "%(num)d word"
 msgid_plural "%(num)d words"
 msgstr[0] "%(num)d Wort"
 msgstr[1] "%(num)d Worte"
-
-
 ```
 
 ## Feature: More-Menu
 
 ```yaml
 more:
-    en:
+    en_US:
         - link:
             text: Categories
             url:  /en_US/Categories/
