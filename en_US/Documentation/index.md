@@ -7,9 +7,7 @@ cards: True
 
 ---
 
-Welcome to the [Pankyll] documentation pages. This is the location to guide
-your way.
-
-
+> Welcome to the [Pankyll] documentation pages. This is the location to guide
+> your way.
 
 [Pankyll]: https://www.pankyll.org/
