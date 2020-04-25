@@ -1,5 +1,5 @@
 ---
-title: Pankyll Features
+title: Feature Overview
 type: doc
 author: Christian Külker
 version: v0.1.0
@@ -8,7 +8,7 @@ categories:
   - Pankyll
 tags:
   - Features
-description: Pankyll Feature Documentation
+description: Pankyll feature overview
 
 ---
 
@@ -31,7 +31,7 @@ description: Pankyll Feature Documentation
 | 9      | Site Description        | description for Home feature          |
 | 10     | Footer                  | URL, text + position footer links     |
 
-[Imprint]: /en_US/Documentation/imprint-feature.html
+[Imprint]: /en_US/Documentation/Feature/imprint-feature.html
 
 ## Feature Scopes
 
