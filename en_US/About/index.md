@@ -8,39 +8,31 @@ categories:
  - Software
 tags:
  - Pankyll
-description: A static site generator using pandoc
+description: A static site generator using Pandoc
 
 ---
 
-[Pankyll] is a static [HTML] site generator written in [Python] that can create
-a static web site from [Markdown] files via [Pandoc]. It supports themes with
-syntax highlighting and [PDF] creation.
+[Pankyll] can be used to convert a directory of [Markdown] files to [HTML]
+pages and this pages can be copied to a server. That is called a static [HTML]
+site generator. This in contrast to dynamic created [HTML] pages. While in the
+past dynamic [HTML] pages have been quite popular, recently static [HTML] pages
+gain in popularity. One reason for this is the security aspect, as static
+[HTML] files do not suffer from many security risks as dynamic created pages.
+On top of this the web site can be served fast, which among other factors will
+increase the scoring of search engines, the so called Search Engine
+Optimization (SEO).
 
-[Pandoc] is a versatile tool to convert documents on the command line to and
-from various formats. It can generate nice [PDF] from [Markdown] for example,
-but also [HTML].
+[Pankyll] uses [Pandoc] to convert a [Markdown] files to [HTML] and if
+configured also to [PDF]. [Pandoc] a versatile tool on the command line can
+convert from and to various formats. [Pandoc] uses [LaTeX] internally to create
+[PDF] documents and as such this documents are typographically advanced in
+comparison to documents created by standard word processors like Libre Office
+or their proprietary siblings.
 
-## Resources
-
-* [Pankyll repository]
-* [features]
-
-[features]: /en_US/Pankyll/pankyll-features.html
-[git]: https://git-scm.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
+[LaTeX]: https://www.latex-project.org/
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
-[more about Pankyll]: /en_US/Pankyll/
-[Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
-[Newspaper theme example]: https://github.com/ckuelker/pankyll-theme-newspaper-example
 [Pandoc]: https://pandoc.org/
 [Pankyll]: https://www.pankyll.org/
-[pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
-[Pankyll repository]: https://github.com/ckuelker/pankyll
 [PDF]: https://en.wikipedia.org/wiki/PDF
-[Python]:  https://www.python.org/
-[Rankle theme example]: /en_US/Example-Sites/pankyll-theme-rankle-example.html
-[Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
-[themes]: /en_US/Pankyll-Themes/
-[URL]: https://en.wikipedia.org/wiki/URL
-[YAML]: https://yaml.org/
 
