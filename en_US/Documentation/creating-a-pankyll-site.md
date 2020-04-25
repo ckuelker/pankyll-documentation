@@ -15,6 +15,7 @@ Tags:
     - Rankle
     - Theme
     - YAML
+description: Creating a Pankyll web site from scratch
 
 ---
 
