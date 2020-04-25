@@ -21,10 +21,8 @@ Tags:
 The easiest way to create a web site is to use an [example] repository to kick
 start the web site. See the [getting started] page for details. However, this
 document describes in more detail how to kick start a [Pankyll] web site from
-scratch. For this to work it is assumed that [Pankyll] is installed.
-
-Choose a site name, for example '**mysite**'. We assume you use the [Rankle]
-[theme].
+scratch. For this to work it is assumed that [Pankyll] is installed.  Choose a
+site name, for example '**mysite**'. We assume you use the [Rankle] [theme].
 
 ```shell
 mkdir mysite
@@ -47,20 +45,20 @@ git submodule update --remote
 git submodule update --init --recursive 
 ```
 
-Copy over the `log.yaml` from one of the theme example repositories.
+> Copy over the `log.yaml` from one of the theme example repositories.
 
 ```shell
 export HOST=raw.githubusercontent.com
 wget https://$HOST/ckuelker/pankyll-theme-rankle-example/master/log.yaml
 ```
-To kick start the configuration copy over the `cfg.yaml` and change it.
+> To kick start the configuration copy over the `cfg.yaml` and change it.
 
 ```shell
 wget https://$HOST/ckuelker/pankyll-theme-rankle-example/master/cfg.yaml
 ```
 
-Change the configuration to match you site. The following is somewhat a minimal
-example for the [Rankle] theme.
+> Change the configuration to match you site. The following is somewhat a
+> minimal example for the [Rankle] theme.
 
 ```yaml
 # 0: default values
@@ -159,8 +157,9 @@ footer:
         - text: © 2020 by Me, All Rights Reserved
 ```
 
-The first page should go into the content directory: `content/en_US/index.md`.
-Make sure the highest heading level is 2 (aka 2 ##).
+> The first page should go into the content directory:
+> `content/en_US/index.md`.  Make sure the highest heading level is 2 (aka 2
+> ##).
 
 ```markdown
 ---
@@ -183,9 +182,8 @@ Welcome to my new web site.
 ```
 
 The [YAML] front matter is needed to define the default type of the page. In
-this case it is `type: title`. The rest is optional.
-
-To create the web site run the `pankyll` command inside the project directory.
+this case it is `type: title`. The rest is optional.  To create the web site
+run the `pankyll` command inside the project directory.
 
 ```shell
 ...
