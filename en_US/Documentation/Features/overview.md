@@ -2,7 +2,7 @@
 title: Feature Overview
 type: doc
 date: 2020-04-26
-list: True
+cards: True
 categories:
     - Features
 tags:
