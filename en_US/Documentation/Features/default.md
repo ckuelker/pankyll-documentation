@@ -138,7 +138,7 @@ True` in `cfg.yaml`.
 ## js_local
 
 This option is basically the same as `css_local`, but just for [javascript]
-files. See section [css_local](css_local) for details.
+files. See section [css_local](#css_local) for details.
 
 [CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [Javascript]: https://en.wikipedia.org/wiki/JavaScript
