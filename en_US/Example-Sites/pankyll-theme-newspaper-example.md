@@ -6,9 +6,15 @@ type: blog
 keywords:
  - Pankyll Theme Newspaper Example
 tags:
- - Newspaper
+    - Example
+    - Newspaper
+    - Newspaper theme documentation
+    - Newspaper theme example repository
+    - Newspaper theme example repository URL
+    - Pankyll
+    - URL
 categories:
- - Theme
+    - Theme
 description: A Newspaper theme example
 
 ---
@@ -43,4 +49,10 @@ make server
 * [Newspaper theme example repository URL]
 * [Newspaper theme documentation]
 
-
+[Example]: https://www.pankyll.org/en_US/Example-Sites
+[Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
+[Newspaper theme documentation]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
+[Newspaper theme example repository]: https://github.com/ckuelker/pankyll-theme-newspaper-example/
+[Newspaper theme example repository URL]: https://github.com/ckuelker/pankyll-theme-newspaper-example.git
+[Pankyll]: https://www.pankyll.org/
+[URL]: https://en.wikipedia.org/wiki/URL
