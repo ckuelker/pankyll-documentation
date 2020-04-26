@@ -1,7 +1,7 @@
 ---
 title: Pankyll Theme Newspaper
 author: Christian Külker
-date: 2020-03-22
+date: 2020-04-26
 type: blog
 keywords:
  - Pankyll Theme Newspaper
@@ -119,11 +119,11 @@ $( "li" ).find("code").addClass("code-inline");
 
 ```yaml
 description:
-    en:
+    en_US:
         text: Pankyll Documentation
-    de:
+    de_DE:
         text: Pankyll Dokumentation
-    ja:
+    ja_JP:
         text: パンキュルのドキュメンテーション
 ```
 
