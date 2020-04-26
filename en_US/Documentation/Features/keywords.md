@@ -48,13 +48,14 @@ keywords:
 
 ## User Keywords
 
-(B) In addition to the above meaning of **keyword feature** the site author can
-create sets of additional keyword classes for different kind of keyword.  This
-kind of keywords should **not** be called `keyword` or `keywords`. Let's have
-an example to clarify this. Assuming the site should provide keywords by the
-author of a page, the site administrator could call them `tags` and add two
-configuration sections, one is called `keywords:` (a reserved word for this
-purpose) and the other one is called `tags:` to `cfg.yaml` like this.
+And (B), in addition to the above meaning of **keyword feature** the site
+author can create sets of additional keyword classes for different kind of
+keyword.  This kind of keywords should **not** be called `keyword` or
+`keywords`. Let's have an example to clarify this. Assuming the site should
+provide keywords by the author of a page, the site administrator could call
+them `tags` and add two configuration sections, one is called `keywords:` (a
+reserved word for this purpose) and the other one is called `tags:` to
+`cfg.yaml` like this.
 
 ```yaml
 keywords:
