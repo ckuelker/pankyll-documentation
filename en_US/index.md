@@ -11,10 +11,26 @@ keywords:
 categories:
   - documentation
 tags:
-  - Pankyll
-  - Pankyll themes
-  - Pankyll themes examples
-  - About Pankyll
+    - Pankyll themes
+    - Pankyll themes examples
+    - About Pankyll
+    - Documentation
+    - Example
+    - Examples
+    - Features
+    - Git
+    - GitHub
+    - HTML
+    - Markdown
+    - Pandoc
+    - Pankyll
+    - PDF
+    - Python
+    - Table of contents
+    - Theme
+    - Themes
+    - User documentation
+
 description: Site providing Pankyll documentation and collecting themes
 
 ---
@@ -50,14 +66,13 @@ repository and make a pull request.
 * [Examples]
 
 [Documentation]: https://www.pankyll.org/en_US/Documentation
-[documentation git repository]: https://github.com/ckuelker/pankyll-documentation
-[example]: https://www.pankyll.org/en_US/Example-Sites
+[Example]: https://www.pankyll.org/en_US/Example-Sites
 [Examples]: https://www.pankyll.org/en_US/Example-Sites
 [Features]: https://www.pankyll.org/en_US/Documentation/Features
-[git]: https://en.wikipedia.org/wiki/Git
+[Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://github.com
 [HTML]: https://en.wikipedia.org/wiki/HTML
-[https://www.pankyll.org]: https://www.pankyll.org
+[Https://www.pankyll.org]: https://www.pankyll.org
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Pandoc]: https://pandoc.org/
 [Pankyll]: https://www.pankyll.org/
