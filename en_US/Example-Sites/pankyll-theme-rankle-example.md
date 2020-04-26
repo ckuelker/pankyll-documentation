@@ -4,21 +4,27 @@ author: Christian Külker
 date: 2020-04-08
 type: blog
 keywords:
- - Pankyll Theme Rankle Example
+    - Pankyll Theme Rankle Example
 tags:
- - Rankle
+    - Example
+    - Pankyll
+    - Rankle
+    - Rankle theme documentation
+    - Rankle theme example repository
+    - Rankle theme example repository URL
+    - URL
 categories:
- - Theme
+    - Theme
 description: A Rankle theme example
 
 ---
 
-This [Pankyll] [theme] [example] is a template that shows how to configure a
-site with the theme [Rankle] and can be used to kick start once own site.
+> This [Pankyll] [theme] [example] is a template that shows how to configure a
+> site with the theme [Rankle] and can be used to kick start once own site.
 
 ## Test The Example
 
-Get the [example]:
+> Get the [example]:
 
 ```bash
 export URL=https://github.com/ckuelker/pankyll-theme-rankle-example.git
@@ -26,7 +32,8 @@ git clone --recursive $URL
 cd pankyll-theme-rankle-example
 ```
 
-Run `pankyll` manually to populate the public directory or use the `Makefile`:
+> Run `pankyll` manually to populate the public directory or use the
+> `Makefile`:
 
 ```bash
 make realclean
@@ -35,7 +42,7 @@ make build
 make server
 ```
 
-Point your browser to the [URL] given
+> Point your browser to the [URL] given
 
 ## Resources
 
