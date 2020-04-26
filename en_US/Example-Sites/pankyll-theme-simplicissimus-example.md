@@ -4,11 +4,17 @@ author: Christian Külker
 date: 2020-04-21
 type: blog
 keywords:
- - Pankyll Theme Simplicissimus Example
+    - Pankyll Theme Simplicissimus Example
 tags:
- - Simplicissimus
+    - Example
+    - Pankyll
+    - Simplicissimus
+    - Simplicissimus theme documentation
+    - Simplicissimus theme example repository
+    - Simplicissimus theme example repository URL
+    - URL
 categories:
- - Theme
+    - Theme
 description: A simple theme example
 
 ---
@@ -19,7 +25,7 @@ description: A simple theme example
 
 ## Test The Example
 
-Get the [example]:
+> Get the [example]:
 
 ```bash
 export URL=https://github.com/ckuelker/pankyll-theme-simplicissimus-example.git
@@ -27,7 +33,8 @@ git clone --recursive $URL
 cd pankyll-theme-simplicissimus-example
 ```
 
-Run `pankyll` manually to populate the public directory or use the `Makefile`:
+> Run `pankyll` manually to populate the public directory or use the
+> `Makefile`:
 
 ```bash
 make realclean
@@ -36,7 +43,7 @@ make build
 make server
 ```
 
-Point your browser to the [URL] given
+> Point your browser to the [URL] given
 
 ## Resources
 
