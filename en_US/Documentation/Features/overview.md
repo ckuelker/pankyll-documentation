@@ -2,7 +2,7 @@
 title: Feature Overview
 type: doc
 date: 2020-04-26
-cards: True
+list: True
 categories:
     - Features
 tags:
@@ -15,7 +15,6 @@ tags:
     - Pankyll
     - Site
     - Table of contents
-
 description: Pankyll feature overview
 
 ---
@@ -61,7 +60,7 @@ description: Pankyll feature overview
 | Version                 |                    | version:     | no        |
 |                         |                    |              |           |
 
-[1] Valid keys are defined via 'keywords:' in `cfg.yaml`.
+> [1] Valid keys are defined via 'keywords:' in `cfg.yaml`.
 
 [Default]: /en_US/Documentation/Feature/default.html
 [Home]: /en_US/Documentation/Feature/home.html
