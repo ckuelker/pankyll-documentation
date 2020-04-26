@@ -32,7 +32,7 @@ repository and make a pull request.
 
 ### Most Important Features
 
-Some of the more important features are:
+> Some of the more important features are:
 
 * [Markdown] support
 * Static [HTML]
