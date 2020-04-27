@@ -20,7 +20,6 @@ tags:
     - Rankle
     - Simplicissimus
     - YAML
-
 description: Pankyll installation on Debian via git and package manager
 
 ---
