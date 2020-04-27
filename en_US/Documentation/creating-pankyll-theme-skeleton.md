@@ -2,8 +2,12 @@
 title:  Creating A Pankyll Theme Skeleton
 author: Christian Külker
 version: 0.1.2
-date:   2020-04-21
+date:   2020-04-27
 type:   doc
+    - Pankyll Skeleton
+tags:
+    - Git
+    - Pankyll
 description: Create a Example Skeleton and show how to use git sub-modules
 
 ---
@@ -67,26 +71,11 @@ git submodule update --remote
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.3   | 2020-04-27 | Christian Külker | cleanup links, git output         |
 | 0.1.2   | 2020-04-21 | Christian Külker | add git output                    |
 | 0.1.1   | 2020-04-09 | Christian Külker | add links                         |
 | 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
 
-[features]: /en_US/Pankyll/pankyll-features.html
-[git]: https://git-scm.com/
-[HTML]: https://en.wikipedia.org/wiki/HTML
-[Markdown]: https://en.wikipedia.org/wiki/Markdown
-[more about Pankyll]: /en_US/Pankyll/
-[Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
-[Newspaper theme example]: https://github.com/ckuelker/pankyll-theme-newspaper-example
-[Pandoc]: https://pandoc.org/
-[Pankyll]: https://www.pankyll.org/
-[pankyll-documentation]: https://github.com/ckuelker/pankyll-documentation
-[Pankyll repository]: https://github.com/ckuelker/pankyll
-[PDF]: https://en.wikipedia.org/wiki/PDF
-[Python]:  https://www.python.org/
-[Rankle theme example]: /en_US/Example-Sites/pankyll-theme-rankle-example.html
-[Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
-[themes]: /en_US/Pankyll-Themes/
-[URL]: https://en.wikipedia.org/wiki/URL
-[YAML]: https://yaml.org/
+[Git]: https://de.wikipedia.org/wiki/Git
+[Pankyll]: https://www.pankyll.org/de_DE/
 
