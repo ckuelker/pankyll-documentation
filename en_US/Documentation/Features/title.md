@@ -8,6 +8,7 @@ keywords:
 categories:
     - Feature
 tags:
+    - Home
     - Title
     - Pankyll
 description: Title feature documentation
@@ -49,5 +50,6 @@ site:
     title: Pankyll
 ```
 
+[Home]: /en_US/Documentation/Feature/home.html
 [Pankyll]: https://www.pankyll.org/
 
