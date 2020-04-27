@@ -1,5 +1,5 @@
 ---
-title: Default Feature
+title: Default
 type: doc
 author: Christian Külker
 date: 2020-04-26
