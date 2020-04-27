@@ -1,5 +1,5 @@
 ---
-title: Header Identifiers Feature
+title: Header Identifiers
 type: doc
 author: Christian Külker
 date: 2020-04-26
@@ -26,7 +26,6 @@ easily create a link by:
 ```markdown
 [some text](#MyTest)
 ```
-
 
 [Auto_identifiers]: https://pandoc.org/MANUAL.html#header-identifiers-in-html-latex-and-context
 [Headings and sections]: https://pandoc.org/MANUAL.html#header-identifiers-in-html-latex-and-context
