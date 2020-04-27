@@ -19,50 +19,29 @@ git init
 
 # pandoc
 git submodule add -b master https://github.com/ckuelker/pankyll-pandoc pandoc
-Cloning into '/home/c/g/github.com-ckuelker/pankyll-theme-simplicissimus-example/pandoc'...
-remote: Enumerating objects: 14, done.
-remote: Counting objects: 100% (14/14), done.
-remote: Compressing objects: 100% (11/11), done.
-remote: Total 14 (delta 1), reused 14 (delta 1), pack-reused 0
-Unpacking objects: 100% (14/14), done.
-
 git submodule init
 
 # content
 export URL=https://github.com/ckuelker/pankyll-documentation
 git submodule add -b master $URL content
-Cloning into '/home/c/g/github.com-ckuelker/pankyll-theme-simplicissimus-example/content'...
-remote: Enumerating objects: 226, done.
-remote: Counting objects: 100% (226/226), done.
-remote: Compressing objects: 100% (152/152), done.
-remote: Total 226 (delta 132), reused 159 (delta 65), pack-reused 0
-Receiving objects: 100% (226/226), 52.46 KiB | 0 bytes/s, done.
-Resolving deltas: 100% (132/132), done.
-
 git submodule init
 
 # theme
 mkdir themes
 export URL=https://github.com/ckuelker/pankyll-theme-simplicissimus
 git submodule add -b master $URL themes/pankyll-theme-simplicissimus
-Cloning into '/home/c/g/github.com-ckuelker/pankyll-theme-simplicissimus-example/themes/pankyll-theme-simplicissimus'...
-remote: Enumerating objects: 28, done.
-remote: Counting objects: 100% (28/28), done.
-remote: Compressing objects: 100% (19/19), done.
-remote: Total 28 (delta 3), reused 28 (delta 3), pack-reused 0
-Unpacking objects: 100% (28/28), done.
-
 git submodule init
 
 mkdir static
 
 ```
-Some files need to be created:
+
+> Some files need to be created:
 
 * cfg.yaml
 * log.yaml
 
-The `Makefile` is optional.
+> The `Makefile` is optional.
 
 ## Updating Git Sub-Modules
 
