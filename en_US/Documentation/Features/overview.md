@@ -69,6 +69,6 @@ description: Pankyll feature overview
 [Localization]: /en_US/Documentation/Features/localization.html
 [Navigation]: /en_US/Documentation/Features/navigation.html
 [Pankyll]: https://www.pankyll.org/
-[Site]: /en_US/Documentation/Features/site.html
+[Site]: /en_US/Documentation/Features/global-site-parameters.html
 [TOC]: /en_US/Documentation/Features/toc.html
 
