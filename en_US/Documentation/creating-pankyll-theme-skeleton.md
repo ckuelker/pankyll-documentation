@@ -77,5 +77,5 @@ git submodule update --remote
 | 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
 
 [Git]: https://de.wikipedia.org/wiki/Git
-[Pankyll]: https://www.pankyll.org/de_DE/
+[Pankyll]: https://www.pankyll.org
 

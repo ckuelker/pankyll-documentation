@@ -223,7 +223,7 @@ cd public
 wget https://$HOST/ckuelker/$REPO/master/static/index.html
 python3 -m http.server 8000
 ```
-[Example]: https://www.pankyll.org/en_US/Example-Sites
+[Example]: /en_US/Example-Sites
 [Getting started]: UNKNOWN
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [Pankyll]: https://www.pankyll.org/

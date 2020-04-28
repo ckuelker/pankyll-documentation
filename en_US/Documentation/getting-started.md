@@ -84,7 +84,7 @@ the `pankyll` command or execute `make build`. To see the result with your
 browser you can use `make server`.
 
 [Debian 10 Buster]: https://www.debian.org/releases/buster/
-[Example]: https://www.pankyll.org/en_US/Example-Sites
+[Example]: /en_US/Example-Sites
 [Jinja2]: https://palletsprojects.com/p/jinja/
 [Newspaper]: /en_US/Pankyll-Themes/pankyll-theme-newspaper.html
 [Pandoc]: https://pandoc.org/
