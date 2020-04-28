@@ -65,10 +65,10 @@ repository and make a pull request.
 * [Themes]
 * [Examples]
 
-[Documentation]: https://www.pankyll.org/en_US/Documentation
-[Example]: https://www.pankyll.org/en_US/Example-Sites
-[Examples]: https://www.pankyll.org/en_US/Example-Sites
-[Features]: https://www.pankyll.org/en_US/Documentation/Features
+[Documentation]: /en_US/Documentation
+[Example]: /en_US/Example-Sites
+[Examples]: /en_US/Example-Sites
+[Features]: /en_US/Documentation/Features
 [Git]: https://en.wikipedia.org/wiki/Git
 [GitHub]: https://github.com
 [HTML]: https://en.wikipedia.org/wiki/HTML
@@ -81,4 +81,4 @@ repository and make a pull request.
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Theme]: /en_US/Pankyll-Themes/
 [Themes]: /en_US/Pankyll-Themes/
-[User documentation]: https://www.pankyll.org/
+[User documentation]: /en_US/Documentation
