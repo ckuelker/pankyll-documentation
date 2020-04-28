@@ -39,5 +39,5 @@ home:
 
 [Pankyll]: https://www.pankyll.org/
 [Themes]: /en_US/Pankyll-Themes/
-[Title]: /en_US/Documentation/Feature/title.html
+[Title]: /en_US/Documentation/Features/title.html
 
