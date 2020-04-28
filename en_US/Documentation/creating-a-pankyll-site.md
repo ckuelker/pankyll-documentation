@@ -224,7 +224,7 @@ wget https://$HOST/ckuelker/$REPO/master/static/index.html
 python3 -m http.server 8000
 ```
 [Example]: /en_US/Example-Sites
-[Getting started]: UNKNOWN
+[Getting started]: /en_US/Documentation/getting-started.html
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [Pankyll]: https://www.pankyll.org/
 [Rankle]: /en_US/Pankyll-Themes/pankyll-theme-rankle.html
