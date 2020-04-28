@@ -39,6 +39,7 @@ cd pankyll-theme-rankle-example
 make realclean
 make submodule-update
 make submoduleclean
+make submodule-pull
 make build
 make server
 ```
