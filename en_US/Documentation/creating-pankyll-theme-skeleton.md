@@ -4,8 +4,8 @@ author: Christian Külker
 version: 0.1.2
 date:   2020-04-27
 type:   doc
-    - Pankyll Skeleton
 tags:
+    - Pankyll Skeleton
     - Git
     - Pankyll
 description: Create a Example Skeleton and show how to use git sub-modules
