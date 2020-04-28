@@ -62,13 +62,13 @@ description: Pankyll feature overview
 
 > [1] Valid keys are defined via 'keywords:' in `cfg.yaml`.
 
-[Default]: /en_US/Documentation/Feature/default.html
-[Home]: /en_US/Documentation/Feature/home.html
-[Imprint]: /en_US/Documentation/Feature/imprint-feature.html
-[Keywords]: /en_US/Documentation/Feature/keywords.html
-[Localization]: /en_US/Documentation/Feature/localization.html
-[Navigation]: /en_US/Documentation/Feature/navigation.html
+[Default]: /en_US/Documentation/Features/default.html
+[Home]: /en_US/Documentation/Features/home.html
+[Imprint]: /en_US/Documentation/Features/imprint-feature.html
+[Keywords]: /en_US/Documentation/Features/keywords.html
+[Localization]: /en_US/Documentation/Features/localization.html
+[Navigation]: /en_US/Documentation/Features/navigation.html
 [Pankyll]: https://www.pankyll.org/
-[Site]: /en_US/Documentation/Feature/site.html
-[TOC]: /en_US/Documentation/Feature/toc.html
+[Site]: /en_US/Documentation/Features/site.html
+[TOC]: /en_US/Documentation/Features/toc.html
 
