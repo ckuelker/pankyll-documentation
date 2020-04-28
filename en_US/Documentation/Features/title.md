@@ -50,6 +50,6 @@ site:
     title: Pankyll
 ```
 
-[Home]: /en_US/Documentation/Feature/home.html
+[Home]: /en_US/Documentation/Features/home.html
 [Pankyll]: https://www.pankyll.org/
 
