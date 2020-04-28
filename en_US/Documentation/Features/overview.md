@@ -64,7 +64,7 @@ description: Pankyll feature overview
 
 [Default]: /en_US/Documentation/Features/default.html
 [Home]: /en_US/Documentation/Features/home.html
-[Imprint]: /en_US/Documentation/Features/imprint-feature.html
+[Imprint]: /en_US/Documentation/Features/imprint.html
 [Keywords]: /en_US/Documentation/Features/keywords.html
 [Localization]: /en_US/Documentation/Features/localization.html
 [Navigation]: /en_US/Documentation/Features/navigation.html
