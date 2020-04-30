@@ -66,6 +66,7 @@ repository and make a pull request.
 * [Examples]
 
 [Documentation]: /en_US/Documentation
+[documentation git repository]: https://github.com/ckuelker/pankyll-documentation
 [Example]: /en_US/Example-Sites
 [Examples]: /en_US/Example-Sites
 [Features]: /en_US/Documentation/Features
