@@ -57,4 +57,5 @@ make server
 [Newspaper theme example repository]: https://github.com/ckuelker/pankyll-theme-newspaper-example/
 [Newspaper theme example repository URL]: https://github.com/ckuelker/pankyll-theme-newspaper-example.git
 [Pankyll]: https://www.pankyll.org/
+[theme]: /en_US/Pankyll-Themes/
 [URL]: https://en.wikipedia.org/wiki/URL
