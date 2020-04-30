@@ -1,8 +1,8 @@
 ---
 title:  Creating A Pankyll Theme Skeleton
 author: Christian Külker
-version: 0.1.2
-date:   2020-04-27
+version: 0.1.4
+date:   2020-04-30
 type:   doc
 tags:
     - Pankyll Skeleton
@@ -22,17 +22,18 @@ cd pankyll-theme-simplicissimus-example
 git init
 
 # pandoc
-git submodule add -b master https://github.com/ckuelker/pankyll-pandoc pandoc
+export URL=https://github.com/ckuelker/pankyll-pandoc.git
+git submodule add -b master $URL pandoc
 git submodule init
 
 # content
-export URL=https://github.com/ckuelker/pankyll-documentation
+export URL=https://github.com/ckuelker/pankyll-documentation.git
 git submodule add -b master $URL content
 git submodule init
 
 # theme
 mkdir themes
-export URL=https://github.com/ckuelker/pankyll-theme-simplicissimus
+export URL=https://github.com/ckuelker/pankyll-theme-simplicissimus.git
 git submodule add -b master $URL themes/pankyll-theme-simplicissimus
 git submodule init
 
@@ -71,10 +72,11 @@ git submodule update --remote
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
-| 0.1.3   | 2020-04-27 | Christian Külker | cleanup links, git output         |
-| 0.1.2   | 2020-04-21 | Christian Külker | add git output                    |
-| 0.1.1   | 2020-04-09 | Christian Külker | add links                         |
-| 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
+| 0.1.4   | 2020-04-30 | Christian Külker | Add .git extension to repos       |
+| 0.1.3   | 2020-04-27 | Christian Külker | Cleanup links, git output         |
+| 0.1.2   | 2020-04-21 | Christian Külker | Add git output                    |
+| 0.1.1   | 2020-04-09 | Christian Külker | Add links                         |
+| 0.1.0   | 2020-03-22 | Christian Külker | Initial release                   |
 
 [Git]: https://de.wikipedia.org/wiki/Git
 [Pankyll]: https://www.pankyll.org

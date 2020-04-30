@@ -2,7 +2,7 @@
 title: Creating A Pankyll Site
 type: doc
 author: Christian Külker
-date: 2020-04-25
+date: 2020-04-30
 keywords:
     - Pankyll Site
 Categories:
@@ -32,18 +32,18 @@ git init
 mkdir -p content/en_US static themes
 
 # add the Pandoc filters
-export URL=https://github.com/ckuelker/pankyll-pandoc
+export URL=https://github.com/ckuelker/pankyll-pandoc.git
 git submodule add -b master $URL pandoc
 git submodule init
 
 # add the theme
-export URL=https://github.com/ckuelker/pankyll-theme-rankle
+export URL=https://github.com/ckuelker/pankyll-theme-rankle.git
 git submodule add -b master $URL themes/pankyll-theme-rankle
 git submodule init
 
 # update the submodules of the submodules
 git submodule update --remote
-git submodule update --init --recursive 
+git submodule update --init --recursive
 ```
 
 > Copy over the `log.yaml` from one of the theme example repositories.
