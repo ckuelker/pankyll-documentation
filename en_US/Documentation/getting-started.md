@@ -3,7 +3,7 @@ title: Getting Started
 type: doc
 author: Christian Külker
 date: 2020-04-25
-toc: True
+TOC: True
 keywords:
     - Pankyll
     - Pankyll Installation
