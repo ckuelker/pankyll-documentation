@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 type: doc
+TOC: True
 author: Christian Külker
 date: 2020-04-25
 TOC: True

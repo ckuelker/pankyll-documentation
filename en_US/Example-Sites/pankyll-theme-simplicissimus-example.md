@@ -3,6 +3,7 @@ title: Pankyll Theme Simplicissimus Example
 author: Christian Külker
 date: 2020-04-21
 type: blog
+TOC: True
 keywords:
     - Pankyll Theme Simplicissimus Example
 tags:

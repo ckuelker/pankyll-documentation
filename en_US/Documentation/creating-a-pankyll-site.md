@@ -1,6 +1,7 @@
 ---
 title: Creating A Pankyll Site
 type: doc
+TOC: True
 author: Christian Külker
 date: 2020-04-30
 keywords:

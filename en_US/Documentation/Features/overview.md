@@ -1,6 +1,7 @@
 ---
 title: Feature Overview
 type: doc
+TOC: True
 date: 2020-04-26
 list: True
 categories:

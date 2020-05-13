@@ -3,6 +3,7 @@ title: Pankyll Theme Newspaper Example
 author: Christian Külker
 date: 2020-04-08
 type: blog
+TOC: True
 keywords:
  - Pankyll Theme Newspaper Example
 tags:

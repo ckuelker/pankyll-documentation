@@ -3,6 +3,7 @@ title: Pankyll Theme Rankle Example
 author: Christian Külker
 date: 2020-04-08
 type: blog
+TOC: True
 keywords:
     - Pankyll Theme Rankle Example
 tags:

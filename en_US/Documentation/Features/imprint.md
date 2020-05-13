@@ -1,6 +1,7 @@
 ---
 title: Imprint
 type: doc
+TOC: True
 date: 2020-04-27
 categories:
     - Feature

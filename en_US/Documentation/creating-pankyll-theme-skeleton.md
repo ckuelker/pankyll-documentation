@@ -4,6 +4,7 @@ author: Christian Külker
 version: 0.1.4
 date:   2020-04-30
 type:   doc
+TOC:    True
 tags:
     - Pankyll Skeleton
     - Git

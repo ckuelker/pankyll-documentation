@@ -1,6 +1,7 @@
 ---
 title: Global Site Parameters
 type: doc
+TOC: True
 author: Christian Külker
 date: 2020-04-26
 keywords:
