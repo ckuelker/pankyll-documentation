@@ -10,6 +10,8 @@ keywords:
     - l10n
 categories:
     - Feature
+features:
+    - Localization
 tags:
     - Theme
     - Pankyll

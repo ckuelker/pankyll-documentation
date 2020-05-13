@@ -7,6 +7,8 @@ keywords:
     - Keywords
 categories:
     - Feature
+features:
+    - Keywords
 tags:
     - HTML
     - Keywords

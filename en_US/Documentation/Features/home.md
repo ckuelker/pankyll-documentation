@@ -8,6 +8,8 @@ keywords:
     - Home
 categories:
     - Feature
+features:
+    - Home
 tags:
     - Home
     - Pankyll

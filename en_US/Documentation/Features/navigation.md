@@ -7,6 +7,8 @@ keywords:
     - Navigation
 categories:
     - Feature
+features:
+    - Navigation
 tags:
     - Navigation
     - Pankyll

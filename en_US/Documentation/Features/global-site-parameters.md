@@ -8,6 +8,8 @@ keywords:
     - Global Site Parameter Feature
 categories:
     - Feature
+features:
+    - Global Site Parameter
 tags:
     - Theme
     - Pankyll

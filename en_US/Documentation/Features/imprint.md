@@ -5,6 +5,8 @@ TOC: True
 date: 2020-04-27
 categories:
     - Feature
+features:
+    - Imprint
 tags:
     - Home feature
     - HTML

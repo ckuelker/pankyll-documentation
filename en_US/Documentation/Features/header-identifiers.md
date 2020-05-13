@@ -8,6 +8,8 @@ keywords:
     - Header Identifiers Feature
 categories:
     - Feature
+features:
+    - Header Identifier
 tags:
     - Auto Identifiers
     - Headings And Sections

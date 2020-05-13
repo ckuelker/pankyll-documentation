@@ -8,6 +8,8 @@ keywords:
     - Default Values
 categories:
     - Feature
+features:
+    - Default
 tags:
     - CSS
     - Javascript

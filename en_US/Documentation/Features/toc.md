@@ -8,6 +8,8 @@ keywords:
     - TOC
 categories:
     - Feature
+features:
+    - Table Of Contents
 tags:
     - TOC
     - Table Of Contents

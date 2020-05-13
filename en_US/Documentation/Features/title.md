@@ -8,6 +8,8 @@ keywords:
     - Title
 categories:
     - Feature
+features:
+    - Title
 tags:
     - Home
     - Title
