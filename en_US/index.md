@@ -65,6 +65,16 @@ repository and make a pull request.
 * [Themes]
 * [Examples]
 
+### Other Projects Using Pandoc
+
+There are other projects using [Pandoc] to generate [HTML] pages. The two
+projects mentioned here have not been tested, they might or might not work for
+you. Just in case [Pankyll[ do not fit your purpose you could have a look.
+
+* [Will Styler]: Shell building a Website using Pandoc, Markdown, and Static
+  HTML
+* [Xac]: Python building a Website using Templates, Pandoc, Variables, Plugins
+
 [Documentation]: /en_US/Documentation
 [documentation git repository]: https://github.com/ckuelker/pankyll-documentation
 [Example]: /en_US/Example-Sites
@@ -83,3 +93,6 @@ repository and make a pull request.
 [Theme]: /en_US/Pankyll-Themes/
 [Themes]: /en_US/Pankyll-Themes/
 [User documentation]: /en_US/Documentation
+[Will Styler]: http://wstyler.ucsd.edu/posts/pandoc_website.html
+[Xac]: https://xyne.archlinux.ca/projects/xac/xac.html
+
