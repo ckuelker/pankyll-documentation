@@ -7,8 +7,13 @@ list: True
 categories:
     - Features
 tags:
+    - Create PDF
+    - CSS Local
     - Default
     - Home
+    - Include After
+    - Include Before
+    - JS Local
     - Imprint
     - Keywords
     - Localization
@@ -16,6 +21,7 @@ tags:
     - Pankyll
     - Site
     - Table of contents
+    - Word Count
 description: Pankyll feature overview
 
 ---
