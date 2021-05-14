@@ -37,6 +37,15 @@ description: Pankyll feature overview
 | 8      | More Menu               | URL + text for a menu called More     |
 | 9      | Site Description        | description for Home feature          |
 | 10     | Footer                  | URL, text + position footer links     |
+| 11     | Default Frontmatter     | Default Values for front matter       |
+| 12     | [Include Before]        | Include text from cfg.yaml into doc   |
+| 13     | [Include After]         | Include text from cfg.yaml into doc   |
+| 14     | [Word Count]            | Count word approx. from Markdown      |
+| 15     | [CSS Local]             | Copy CSS to local site                |
+| 16     | [JS Local]              | Copy Javascript to local site         |
+| 17     | [Create PDF]            | Crate PDF via Pandoc                  |
+| 18     |                         |                                       |
+| 19     |                         |                                       |
 
 ## Feature Scopes
 
@@ -59,17 +68,35 @@ description: Pankyll feature overview
 | Author                  |                    | author:      | no        |
 | Date                    |                    | date:        | no        |
 | Version                 |                    | version:     | no        |
+| Default Frontmatter     | frontmatter:       | ALL          | empty     |
+| Include Before          | site:              |              | no        |
+| Include After           | site:              |              | no        |
+| Word Count              |                    |              | no        |
+| CSS Local               |                    |              | no        |
+| JS Local                |                    |              | no        |
+| Create PDF              | default:           |              | no        |
 |                         |                    |              |           |
+
+ALL: all keys can be used
+
+empty: key has to be in cfg.yaml, but can be empty
 
 > [1] Valid keys are defined via 'keywords:' in `cfg.yaml`.
 
+[Create PDF]: /en_US/Documentation/Features/create-pdf.html
+[CSS Local]: /en_US/Documentation/Features/css-local.html
 [Default]: /en_US/Documentation/Features/default.html
 [Home]: /en_US/Documentation/Features/home.html
 [Imprint]: /en_US/Documentation/Features/imprint.html
+[Include Before]: /en_US/Documentation/Features/body-include-before.html
+[Include After]: /en_US/Documentation/Features/body-include-after.html
+[JS Local]: /en_US/Documentation/Features/js-local.html
 [Keywords]: /en_US/Documentation/Features/keywords.html
 [Localization]: /en_US/Documentation/Features/localization.html
 [Navigation]: /en_US/Documentation/Features/navigation.html
 [Pankyll]: https://www.pankyll.org/
 [Site]: /en_US/Documentation/Features/global-site-parameters.html
 [TOC]: /en_US/Documentation/Features/toc.html
+[Word Count]: /en_US/Documentation/Features/word-count.html
+
 

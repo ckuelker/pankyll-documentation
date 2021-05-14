@@ -1,7 +1,7 @@
 ---
 title:  Pankyll Documentation README
 author: Christian Külker
-date:   2020-05-14
+date:   2021-05-14
 
 ---
 
@@ -23,6 +23,8 @@ as well give first stop information about known themes.
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.5   | 2021-05-14 | Christian Külker | Update feature list: before,      |
+|         |            |                  | after, create PDF, word count     |
 | 0.1.4   | 2020-05-14 | Christian Külker | +TOC, support feature keyword     |
 |         |            |                  | +Sec. Other Projects Using Pandoc |
 | 0.1.3   | 2020-05-13 | Christian Külker | fix TOC feature                   |
@@ -47,7 +49,7 @@ itself. This files have the ending `*.md`.
 
 # License And Copyright
 
-    Copyright (C) 2020 by Christian Kuelker
+    Copyright (C) 2020, 2021 by Christian Kuelker
 
 Permission is granted to copy, distribute and/or modify this document under the
 terms of the GNU Free Documentation License, Version 1.3 or any later version
