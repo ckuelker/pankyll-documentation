@@ -71,9 +71,9 @@ There are other projects using [Pandoc] to generate [HTML] pages. The two
 projects mentioned here have not been tested, they might or might not work for
 you. Just in case [Pankyll] do not fit your purpose you could have a look.
 
-* [Will Styler]: Shell building a Website using Pandoc, Markdown, and Static
+* [Will Styler] Shell building a Website using Pandoc, Markdown, and Static
   HTML
-* [Xac]: Python building a Website using Templates, Pandoc, Variables, Plugins
+* [Xac] Python building a Website using Templates, Pandoc, Variables, Plugins
 
 [Documentation]: /en_US/Documentation
 [documentation git repository]: https://github.com/ckuelker/pankyll-documentation
