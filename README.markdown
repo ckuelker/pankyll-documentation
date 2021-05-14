@@ -1,7 +1,7 @@
 ---
 title:  Pankyll Documentation README
 author: Christian Külker
-date:   2020-05-13
+date:   2020-05-14
 
 ---
 
@@ -23,6 +23,8 @@ as well give first stop information about known themes.
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.4   | 2020-05-14 | Christian Külker | +TOC, support feature keyword     |
+|         |            |                  | +Sec. Other Projects Using Pandoc |
 | 0.1.3   | 2020-05-13 | Christian Külker | fix TOC feature                   |
 | 0.1.2   | 2020-04-09 | Christian Külker | rename to pankyll-documentation   |
 | 0.1.1   | 2020-03-27 | Christian Külker | change license to FDL 1.3         |
