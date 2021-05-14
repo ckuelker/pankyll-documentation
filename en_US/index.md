@@ -69,7 +69,7 @@ repository and make a pull request.
 
 There are other projects using [Pandoc] to generate [HTML] pages. The two
 projects mentioned here have not been tested, they might or might not work for
-you. Just in case [Pankyll[ do not fit your purpose you could have a look.
+you. Just in case [Pankyll] do not fit your purpose you could have a look.
 
 * [Will Styler]: Shell building a Website using Pandoc, Markdown, and Static
   HTML
