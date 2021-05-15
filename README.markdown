@@ -1,7 +1,7 @@
 ---
 title:  Pankyll Documentation README
 author: Christian Külker
-date:   2021-05-14
+date:   2021-05-15
 
 ---
 
@@ -23,6 +23,7 @@ as well give first stop information about known themes.
 
 | Version | Date       | Author           | Notes                             |
 | ------- | ---------- | ---------------- | --------------------------------- |
+| 0.1.6   | 2021-05-15 | Christian Külker | Bump copyright, fix links, +tags  |
 | 0.1.5   | 2021-05-14 | Christian Külker | Update feature list: before,      |
 |         |            |                  | after, create PDF, word count     |
 | 0.1.4   | 2020-05-14 | Christian Külker | +TOC, support feature keyword     |
