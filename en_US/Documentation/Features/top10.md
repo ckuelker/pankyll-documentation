@@ -25,10 +25,10 @@ The **Top 10** feature is provided by [pankyll] and supported by the theme
 
 To use the feature it has to be enabled via the project configuration.
 Depending on your setup this can be `cfg.yaml` or `rankle.yaml` via the
-`default` section:
+`feature` section:
 
 ~~~
-default:
+feature:
     top10: True
 ~~~
 
@@ -48,7 +48,7 @@ pages for example), you have to enable the feature in the project
 configuration:
 
 ~~~
-default:
+feature:
    top10: True
 ~~~
 
@@ -70,8 +70,9 @@ To use the left side __top 10__ feature on all sides add the following to your
 project configuration:
 
 ~~~
-default:
+feature:
     top10: True
+default:
     top10_left: True
 ~~~
 
@@ -81,8 +82,9 @@ To use the __top 10__ feature on the right side of the page, you have to enable
 right side variant in the default project configuration:
 
 ~~~
-default:
+feature:
     top10: True
+default:
     top10_right: True
 ~~~
 
