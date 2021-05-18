@@ -17,7 +17,7 @@ description: A Newspaper theme
 This page describes briefly the aim and content for [pankyll-theme-newspaper].
 The goal of [pankyll-theme-newspaper] is to show the configuration and usage of
 [pankyll-theme-newspaper] by providing working example with a directory tree
-that can be used as base to build up a site. The lightweight theme's main
+that can be used as base to build up a website. The lightweight theme's main
 feature is to use columns to display standard text. After one is used to read
 columns, one can read columns faster, as the eye do not lose track of the line
 so often. However this [theme] do not look good on short texts. The length of a
@@ -28,13 +28,13 @@ paragraph should be considerably.
 
 ## Prerequisites
 
-> The [pankyll-theme-newspaper] needs the static site generator
+> The [pankyll-theme-newspaper] needs the static website generator
 > [Pankyll].
 
 ## Installation
 
-> Assuming you have the directory `project` to create a `Pankyll` site. Place
-> the content of the
+> Assuming you have the directory `project` to create a `Pankyll` website.
+> Place the content of the
 > [git repository](https://github.com/ckuelker/pankyll-theme-newspaper) under
 > the directory `project/themes` for example like so:
 

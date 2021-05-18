@@ -46,7 +46,7 @@ home:
         url:  de_DE
 
 ```
-## Example Site Fallback Title
+## Example Website Fallback Title
 
 ```yaml
 site:

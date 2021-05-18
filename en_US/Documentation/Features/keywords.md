@@ -26,7 +26,7 @@ define keywords in the front matter section of a page. Then secondly the
 template iterates over all keywords and creates meta tags in the [HTML] head
 section. The following tree section show the different aspects for a keyword
 `example`.  The keyword feature is always available regardless of the
-`cfg.yaml` site configuration.
+`cfg.yaml` website configuration.
 
 ### Page Front Matter Keyword
 
@@ -51,11 +51,11 @@ keywords:
 
 ## User Keywords
 
-And (B), in addition to the above meaning of **keyword feature** the site
+And (B), in addition to the above meaning of **keyword feature** the website
 author can create sets of additional keyword classes for different kind of
 keyword.  This kind of keywords should **not** be called `keyword` or
-`keywords`. Let's have an example to clarify this. Assuming the site should
-provide keywords by the author of a page, the site administrator could call
+`keywords`. Let's have an example to clarify this. Assuming the website should
+provide keywords by the author of a page, the website administrator could call
 them `tags` and add two configuration sections, one is called `keywords:` (a
 reserved word for this purpose) and the other one is called `tags:` to
 `cfg.yaml` like this.

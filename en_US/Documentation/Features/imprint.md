@@ -19,7 +19,7 @@ description: Imprint feature documentation
 
 ---
 
-Some states like Germany demand to have a page as in imprint for the web site.
+Some states like Germany demand to have a page as in imprint for the website.
 The 'imprint feature' provide this for theme designers to easily add a link to
 an imprint page wherever they see fit.  It is not mandatory for [Pankyll] to
 have a imprint page. This section describes the usage and non usage of an
@@ -31,14 +31,14 @@ feature.
 [Pankyll] provides the [Jinja2] variables  `has_imprint`, `imprint_url` and
 `imprint_text`. The configuration provides a directory key `url`. This is
 needed, because there are cases where a git repository is used in different
-cases: (a) as an example content (without imprint site) and (b) as a real
-deployed site (with imprint page). Pankyll will dispatch this cases by the
+cases: (a) as an example content (without imprint page) and (b) as a real
+deployed website (with imprint page). Pankyll will dispatch this cases by the
 existence of this file or directory. If the directory or files do not exist (or
 the whole imprint configuration) the `has_imprint` will be set to `False` and
 the `imprint_url` and `imprint_text` will be set (for now) to the values of the
 [home feature], but should not be used by a theme.
 
-The key `has_imprint` will be set to `True` if the site
+The key `has_imprint` will be set to `True` if the website
 configuration `cfg.yaml` fulfill the following criteria:
 
 * has the key `imprint`
@@ -47,11 +47,12 @@ configuration `cfg.yaml` fulfill the following criteria:
 * the current locale key has `text` key
 * the directory or file of the `url` key exists
 
-iTo use an imprint page with the imprint feature add the following snippet to
-your site configuration in `cfg.yaml`. See `cfg.yaml` example below. Depending
-on your supported languages, the snippet might look a little bit different.
+To use an imprint page with the imprint feature add the following snippet to
+your website configuration in `cfg.yaml`. See `cfg.yaml` example below.
+Depending on your supported languages, the snippet might look a little bit
+different.
 
-## Site cfg.yaml Example
+## Website cfg.yaml Example
 
 ```yaml
 imprint:                   # enable imprint feature
@@ -67,7 +68,7 @@ imprint:                   # enable imprint feature
 ```
 
 For the [URL] to work correctly you should not add a prefix. The prefix of the
-[URL] will be added by [Pankyll] and it depends on the site configuration in
+[URL] will be added by [Pankyll] and it depends on the website configuration in
 `cfg.yaml`. If you imprint link points to a directory create an index
 [Markdown] file. If you prefer a named link, it should point to the [HTML] file
 that either exists in static or that will be created by [Pankyll] from a

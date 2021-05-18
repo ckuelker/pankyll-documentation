@@ -25,9 +25,9 @@ description: Pankyll installation on Debian via git and package manager
 
 ---
 
-To create your first web site with [Pankyll] this guide uses two steps. The
+To create your first website with [Pankyll] this guide uses two steps. The
 first step is to install [Pankyll] and the second step is to use an [example]
-site to kick start your site.
+website to kick start your website.
 
 ## Installing Pankyll
 
@@ -69,10 +69,10 @@ it can be installed on [Debian 10 Buster] like this.
 aptitude install make
 ```
 
-Of course you can now create your new site from scratch. However the
-explanation would be quite long. For your first site it is recommended to use a
-theme example. Chose one repository from the theme [example] page and clone
-this repository. In the example below replace `NAME` with the name of the
+Of course you can now create your new website from scratch. However the
+explanation would be quite long. For your first website it is recommended to
+use a theme example. Chose one repository from the theme [example] page and
+clone this repository. In the example below replace `NAME` with the name of the
 example theme. For example [newspaper], [rankle] or [simplicissimus].
 
 ```shell

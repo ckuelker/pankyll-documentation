@@ -21,8 +21,8 @@ description: A simple theme example
 ---
 
 > This [Pankyll] [theme] [example] is a template that shows how to configure a
-> site with the theme [Simplicissimus] and can be used to kick start once own
-> site.
+> website with the theme [Simplicissimus] and can be used to kick start once
+> own website.
 
 ## Test The Example
 

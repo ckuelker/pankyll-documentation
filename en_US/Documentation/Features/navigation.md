@@ -22,11 +22,11 @@ description: Navigation feature documentation
 
 The **navigation** feature is optional, however it comes quite handy for
 [themes] that support it. Usually the [theme] will create a top menu bar from
-it or left/ right site navigation pane. The configuration for the
+it or left/ right side navigation pane. The configuration for the
 **navigation** feature in `cfg.yaml` basically provides a link list for every
-language of your site. Since the order of the links are important the shape of
-the configuration is a [YAML] list. For every link the [URL] and the link text
-need to be provided. See the example below.
+language of your website. Since the order of the links are important the shape
+of the configuration is a [YAML] list. For every link the [URL] and the link
+text need to be provided. See the example below.
 
 ```yaml
 navigation:

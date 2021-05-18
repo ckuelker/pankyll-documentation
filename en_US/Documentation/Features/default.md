@@ -25,9 +25,9 @@ description: Default feature documentation
 
 Some values need to have pre-defined values, so called default values.
 [Pankyll] explicitly supports for some values that this values are set to a
-default value for the whole web site.
+default value for the whole website.
 
-## Site cfg.yaml Example
+## Website cfg.yaml Example
 
 ```yaml
 default:
@@ -47,7 +47,7 @@ Usually the front matter defined with the key `page_type:` the kind of template
 to be used.  For example the `page_type: doc` uses the
 `themes/NAME/layouts/doc/index.html` as a template to render the page. (Replace
 `NAME` with name of the used [theme]. There are cases in which almost all pages
-of a given web site are of one type. Rather forcing to add a `page_type:` in
+of a given website are of one type. Rather forcing to add a `page_type:` in
 every page front matter, this default value sets the page type for pages
 without a `page_type:` in the front matter. The possible values are dependent
 on the theme. Every theme can define as many page types as the theme wants.
@@ -107,21 +107,21 @@ default locale and you should set `l10n_locale: en_US`.
 
 [Pankyll] supports the creation of [PDF] version if the [Markdown] page via
 [Pandoc]. Some pages would like to have a link pointing to download the [PDF]
-version of a page, some sites would not. Also when developing a new web site,
+version of a page, some sides would not. Also when developing a new website,
 the creation of [PDF] pages takes time. To speed up the development, the
-creation can be globally enabled or disabled for the site. As a remark, for now
-[Pankyll] do not create [PDF] documents for `index.md` pages. Just use a
+creation can be globally enabled or disabled for the website. As a remark, for
+now [Pankyll] do not create [PDF] documents for `index.md` pages. Just use a
 different page name for now. To enable [PDF] creation set the key to `True`
 like this: `pdf_create: True` and to disable it to: `pdf_create: False`. Keep
 in mind that [YAML] is case sensitive. `pdf_create: true` might not work.
 
 ## css_local
 
-Some themes (or your site) might offer the delivery of [CSS] files locally
+Some themes (or your website) might offer the delivery of [CSS] files locally
 as in contrast to point to some arbitrary third party web servers. There are
-advantages and disadvantages for this. `css_local: True` might deliver some
-CSS locally from some themes or sites, while `css_local: False` do not.
-You have to look into your theme to see if it supports it.
+advantages and disadvantages for this. `css_local: True` might deliver some CSS
+locally from some themes or websites, while `css_local: False` do not.  You
+have to look into your theme to see if it supports it.
 
 ### Example Theme Support Template Snippet
 
@@ -134,7 +134,7 @@ You have to look into your theme to see if it supports it.
 ```
 
 For this to work locally you have (1) copy `highlight-default.min.css`
-(obtained from some web site) to
+(obtained from some website) to
 `themes/NAME/static/css/highlight-default.min.css` and (2) set `css_local:
 True` in `cfg.yaml`.
 

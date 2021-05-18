@@ -1,30 +1,30 @@
 ---
-title: Creating A Pankyll Site
+title: Creating A Pankyll Website
 type: doc
 TOC: True
 author: Christian Külker
 date: 2020-04-30
 keywords:
-    - Pankyll Site
+    - Pankyll Website
 Categories:
     - Documentation
 Tags:
-    - Creating A Site
+    - Creating A Website
     - Example
     - Getting started
     - Pankyll
     - Rankle
     - Theme
     - YAML
-description: Creating a Pankyll web site from scratch
+description: Creating a Pankyll website from scratch
 
 ---
 
-The easiest way to create a web site is to use an [example] repository to kick
-start the web site. See the [getting started] page for details. However, this
-document describes in more detail how to kick start a [Pankyll] web site from
+The easiest way to create a website is to use an [example] repository to kick
+start the website. See the [getting started] page for details. However, this
+document describes in more detail how to kick start a [Pankyll] website from
 scratch. For this to work it is assumed that [Pankyll] is installed.  Choose a
-site name, for example '**mysite**'. We assume you use the [Rankle] [theme].
+website name, for example '**mysite**'. We assume you use the [Rankle] [theme].
 
 ```shell
 mkdir mysite
@@ -59,7 +59,7 @@ wget https://$HOST/ckuelker/pankyll-theme-rankle-example/master/log.yaml
 wget https://$HOST/ckuelker/pankyll-theme-rankle-example/master/cfg.yaml
 ```
 
-> Change the configuration to match you site. The following is somewhat a
+> Change the configuration to match you website. The following is somewhat a
 > minimal example for the [Rankle] theme.
 
 ```yaml
@@ -71,7 +71,7 @@ default:
     l10n_locale:       en_US   # Feature 2: Localization
     pdf_create:        True
 
-# 1. Global site parameters
+# 1. Global website parameters
 site:
   url:         /                     # URL prefix - mandatory (trailing slash)
   title:       My Site               # string     - mandatory (fallback)
@@ -127,7 +127,7 @@ more:
             text: Tags
             url:  en_US/Tags/
 
-# 9.  Feature: Site Description
+# 9.  Feature: Website Description
 description:
     en_US:
         text: My Site
@@ -165,7 +165,7 @@ footer:
 
 ```markdown
 ---
-title: Welcome to My Site
+title: Welcome to My Website
 type: title
 keywords:
   - My Site
@@ -173,18 +173,18 @@ categories:
   - My Site
 tags:
   - Welcome
-description: My new site
+description: My new website
 
 ---
 
-Welcome to my new web site.
+Welcome to my new website.
 
 ## Important Information
 ...
 ```
 
 The [YAML] front matter is needed to define the default type of the page. In
-this case it is `type: title`. The rest is optional.  To create the web site
+this case it is `type: title`. The rest is optional. To create the website
 run the `pankyll` command inside the project directory.
 
 ```shell

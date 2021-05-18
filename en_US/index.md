@@ -32,20 +32,20 @@ tags:
     - Top 10
     - User documentation
 
-description: Site providing Pankyll documentation and collecting themes
+description: Website providing Pankyll documentation and collecting themes
 
 ---
 
-[Pankyll] is is a static [HTML] site generator written in [Python] using
-[Pandoc] to generate easy to deploy [HTML] sites including [PDF] conversion
-from [Markdown] files. This site provides [user documentation] about installing
-and using the static site generator [Pankyll] for your site and it collects
-unique layouts, called [themes] and [example] repositories for [themes]. The
-latest version of this [documentation] can be found at the [Pankyll] web page
-[https://www.pankyll.org] and it can be cloned via the [documentation git
-repository]. If you have written a [Pankyll] [theme] and would like to share it
-with the world and be promoted via this page, consider to fork the [git]
-repository and make a pull request.
+[Pankyll] is is a static [HTML] website generator written in [Python] using
+[Pandoc] to generate easy to deploy [HTML] websites including [PDF] conversion
+from [Markdown] files. This website provides [user documentation] about
+installing and using the static website generator [Pankyll] for your website
+and it collects unique layouts, called [themes] and [example] repositories for
+[themes]. The latest version of this [documentation] can be found at the
+[Pankyll] web page [https://www.pankyll.org] and it can be cloned via the
+[documentation git repository]. If you have written a [Pankyll] [theme] and
+would like to share it with the world and be promoted via this page, consider
+to fork the [git] repository and make a pull request.
 
 ### Most Important Features
 

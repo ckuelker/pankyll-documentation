@@ -1,34 +1,34 @@
 ---
-title: Global Site Parameters
+title: Global Website Parameters
 type: doc
 TOC: True
 author: Christian Külker
 date: 2020-04-26
 keywords:
-    - Global Site Parameter Feature
+    - Global Website Parameter Feature
 categories:
     - Feature
 features:
-    - Global Site Parameter
+    - Global Website Parameter
 tags:
     - Theme
     - Pankyll
-description: Global site parameters feature documentation
+description: Global website parameters feature documentation
 
 ---
 
-The **global site parameter feature** is more a necessity than a feature.  The
-global site configuration in `cfg.yaml` need to have the mandatory section
-'site' with some mandatory options for all themes.  Every site need to know the
-source and target directories: `content_dir:`, `themes_dir:` and `public_dir:`.
-Then a fall back title is defined with `title:` as well as the [theme] name
-with `theme_name:`. The theme name is the name of the directory under `themes`.
-So for example if you are using a fictional theme `star` in `themes` like so
-`themes/pankyl-theme-star`, then you have the set the key `theme_name` as
-`theme_name: /pankyl-theme-star`. And last but not least the `site:` section
-defines the `url:` key that is a prefix to your site. Usually this is just `/`.
-But in principle it can be different.  While not all themes have to use all
-options the following options are minimal and mandatory.
+The **global website parameter feature** is more a necessity than a feature.
+The global website configuration in `cfg.yaml` need to have the mandatory
+section 'site' with some mandatory options for all themes.  Every website need
+to know the source and target directories: `content_dir:`, `themes_dir:` and
+`public_dir:`.  Then a fall back title is defined with `title:` as well as the
+[theme] name with `theme_name:`. The theme name is the name of the directory
+under `themes`.  So for example if you are using a fictional theme `star` in
+`themes` like so `themes/pankyl-theme-star`, then you have the set the key
+`theme_name` as `theme_name: /pankyl-theme-star`. And last but not least the
+`site:` section defines the `url:` key that is a prefix to your website.
+Usually this is just `/`.  But in principle it can be different.  While not all
+themes have to use all options the following options are minimal and mandatory.
 
 
 ```yaml

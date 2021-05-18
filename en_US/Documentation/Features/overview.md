@@ -19,7 +19,7 @@ tags:
     - Localization
     - Navigation
     - Pankyll
-    - Site
+    - Website
     - Table of contents
     - Top 10
     - Word Count
@@ -33,23 +33,23 @@ description: Pankyll feature overview
 
 | Number | Feature                 | Notes                                 |
 | -------| ----------------------- | ------------------------------------- |
-| 0      | [Default]               | Default Values for site cfg.yaml      |
-| 1      | [Site]                  | Site wide configuration in cfg.yaml   |
+| 0      | [Default]               | Default Values for website cfg.yaml   |
+| 1      | [Website]               | Website wide configuration cfg.yaml   |
 | 2      | Internationalization    | Prepare Pankyll for [localization]    |
 | 3      | [Imprint]               | URL + text for imprint page           |
-| 4      | [Home]                  | URL + text for site root link         |
+| 4      | [Home]                  | URL + text for website root link      |
 | 5      | [Navigation]            | URL + text for navigation bar         |
 | 6      | Table of contents [TOC] | Text for Table of contents title      |
 | 7      | [Keywords]              | Types of keywords (tags, ...)         |
 | 8      | More Menu               | URL + text for a menu called More     |
-| 9      | Site Description        | description for Home feature          |
+| 9      | Website Description     | description for Home feature          |
 | 10     | Footer                  | URL, text + position footer links     |
 | 11     | Default Frontmatter     | Default Values for front matter       |
 | 12     | [Include Before]        | Include text from cfg.yaml into doc   |
 | 13     | [Include After]         | Include text from cfg.yaml into doc   |
 | 14     | [Word Count]            | Count word approx. from Markdown      |
-| 15     | [CSS Local]             | Copy CSS to local site                |
-| 16     | [JS Local]              | Copy Javascript to local site         |
+| 15     | [CSS Local]             | Copy CSS to local website             |
+| 16     | [JS Local]              | Copy Javascript to local website      |
 | 17     | [Create PDF]            | Crate PDF via Pandoc                  |
 | 18     | [Top 10]                | Link list to 10 latest pages          |
 | 19     |                         |                                       |
@@ -58,17 +58,17 @@ description: Pankyll feature overview
 
 | Feature                 | cfg.yaml           | Front Matter | Mandatory |
 |------------------------ | ------------------ | ------------ | --------- |
-| Site                    | site:              |              | yes       |
+| Website                 | site:              |              | yes       |
 | Localization (l10n)     | l10n:, languages:  |              | yes       |
 | Imprint                 | imprint:           |              | no        |
-| Site Title              | site.title:        |              |           |
+| Website Title           | site.title:        |              |           |
 | Page Title              |                    | title:       |           |
 | Home                    | home:              |              | no        |
 | Table Of Contents       | toc:               |              |           |
 | Keywords                | keywords:, ...[1]  | ...[1]       | no        |
 | Navigation              | navigation:        |              | no        |
 | More                    | more:              |              |           |
-| Site Description        | description:       |              |           |
+| Website Description     | description:       |              |           |
 | Page Description        |                    | description: | no        |
 | Footer                  | footer:            |              |           |
 | Type                    | type:              | type:        | yes       |
@@ -103,7 +103,7 @@ empty: key has to be in cfg.yaml, but can be empty
 [Localization]: /en_US/Documentation/Features/localization.html
 [Navigation]: /en_US/Documentation/Features/navigation.html
 [Pankyll]: https://www.pankyll.org/
-[Site]: /en_US/Documentation/Features/global-site-parameters.html
+[Website]: /en_US/Documentation/Features/global-site-parameters.html
 [TOC]: /en_US/Documentation/Features/toc.html
 [Top 10]: /en_US/Documentation/Features/top10.html
 [Word Count]: /en_US/Documentation/Features/word-count.html

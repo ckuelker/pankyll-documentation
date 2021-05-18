@@ -45,7 +45,7 @@ git submodule init
 ## Features
 
 * Default values
-* Site values
+* Website values
 * Internationalization
 * Navigation
 * Keywords

@@ -34,7 +34,7 @@ feature:
 
 The __top 10__ feature can be used on the left or right side of a page.
 
-### Left Site
+### Left Side
 
 {{% pageinfo %}}
 
@@ -76,7 +76,7 @@ default:
     top10_left: True
 ~~~
 
-### Right Site
+### Right Side
 
 To use the __top 10__ feature on the right side of the page, you have to enable
 right side variant in the default project configuration:
