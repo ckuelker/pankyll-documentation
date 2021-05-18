@@ -1,7 +1,7 @@
 ---
 title:  Pankyll Documentation README
 author: Christian Külker
-date:   2021-05-15
+date:   2021-05-18
 
 ---
 
@@ -21,17 +21,18 @@ as well give first stop information about known themes.
 
 # Changes
 
-| Version | Date       | Author           | Notes                             |
-| ------- | ---------- | ---------------- | --------------------------------- |
-| 0.1.6   | 2021-05-15 | Christian Külker | Bump copyright, fix links, +tags  |
-| 0.1.5   | 2021-05-14 | Christian Külker | Update feature list: before,      |
-|         |            |                  | after, create PDF, word count     |
-| 0.1.4   | 2020-05-14 | Christian Külker | +TOC, support feature keyword     |
-|         |            |                  | +Sec. Other Projects Using Pandoc |
-| 0.1.3   | 2020-05-13 | Christian Külker | fix TOC feature                   |
-| 0.1.2   | 2020-04-09 | Christian Külker | rename to pankyll-documentation   |
-| 0.1.1   | 2020-03-27 | Christian Külker | change license to FDL 1.3         |
-| 0.1.0   | 2020-03-22 | Christian Külker | initial release                   |
+| Version | Date       | Notes                                                |
+| ------- | ---------- | ---------------------------------------------------- |
+| 0.1.7   | 2021-05-18 | Top 10 feature                                       |
+| 0.1.6   | 2021-05-15 | Bump copyright, fix links, +tags                     |
+| 0.1.5   | 2021-05-14 | Update feature list: before, after, create PDF, word |
+|         |            | count                                                |
+| 0.1.4   | 2020-05-14 | +TOC, support feature keyword, +Sec. Other Projects  |
+|         |            | Using Pandoc                                         |
+| 0.1.3   | 2020-05-13 | fix TOC feature                                      |
+| 0.1.2   | 2020-04-09 | rename to pankyll-documentation                      |
+| 0.1.1   | 2020-03-27 | change license to FDL 1.3                            |
+| 0.1.0   | 2020-03-22 | initial release                                      |
 
 # Introduction
 
