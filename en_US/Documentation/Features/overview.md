@@ -2,7 +2,7 @@
 title: Feature Overview
 type: doc
 TOC: True
-date: 2020-04-26
+date: 2021-05-18
 list: True
 categories:
     - Features
@@ -21,6 +21,7 @@ tags:
     - Pankyll
     - Site
     - Table of contents
+    - Top 10
     - Word Count
 description: Pankyll feature overview
 
@@ -50,7 +51,7 @@ description: Pankyll feature overview
 | 15     | [CSS Local]             | Copy CSS to local site                |
 | 16     | [JS Local]              | Copy Javascript to local site         |
 | 17     | [Create PDF]            | Crate PDF via Pandoc                  |
-| 18     |                         |                                       |
+| 18     | [Top 10]                | Link list to 10 latest pages          |
 | 19     |                         |                                       |
 
 ## Feature Scopes
@@ -80,6 +81,7 @@ description: Pankyll feature overview
 | Word Count              |                    |              | no        |
 | CSS Local               |                    |              | no        |
 | JS Local                |                    |              | no        |
+| Top 10                  | default:           | top10:       | no        |
 | Create PDF              | default:           |              | no        |
 |                         |                    |              |           |
 
@@ -103,6 +105,7 @@ empty: key has to be in cfg.yaml, but can be empty
 [Pankyll]: https://www.pankyll.org/
 [Site]: /en_US/Documentation/Features/global-site-parameters.html
 [TOC]: /en_US/Documentation/Features/toc.html
+[Top 10]: /en_US/Documentation/Features/top10.html
 [Word Count]: /en_US/Documentation/Features/word-count.html
 
 

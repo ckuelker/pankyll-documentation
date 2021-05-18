@@ -1,7 +1,7 @@
 ---
 title: Welcome to Pankyll
 author: Christian Külker
-date: 2020-04-25
+date: 2021-05-18
 type: title
 keywords:
   - Pankyll
@@ -29,6 +29,7 @@ tags:
     - Table of contents
     - Theme
     - Themes
+    - Top 10
     - User documentation
 
 description: Site providing Pankyll documentation and collecting themes
