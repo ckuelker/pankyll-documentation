@@ -1,6 +1,6 @@
 ---
 title: Pankyll
-author: Christian Külker
+date: 2022-05-19
 type: doc
 keywords:
  - Pankyll
