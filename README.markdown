@@ -1,8 +1,8 @@
 ---
 title: Pankyll Documentation README
 author: Christian Külker
-version: 0.1.8
-date: 2022-05-09
+version: 0.1.9
+date: 2022-05-19
 
 ---
 
@@ -24,6 +24,7 @@ well give first stop information about known themes.
 
 | Version | Date       | Notes                                                |
 | ------- | ---------- | ---------------------------------------------------- |
+| 0.1.9   | 2022-05-19 | Shorten title on some some pages                     |
 | 0.1.8   | 2022-05-09 | Fix duplicate YAML TOC entry in getting_started.md   |
 |         |            | Remove duplicate license entry from README.markdown  |
 | 0.1.7   | 2021-05-18 | Top 10 feature                                       |
@@ -54,7 +55,8 @@ itself. This files have the ending `*.md`.
 
 # License And Copyright
 
-    Copyright (C) 2020, 2021 by Christian Kuelker, see LICENSE.markdown file.
+    Copyright (C) 2020, 2021, 2022 by Christian Kuelker, see LICENSE.markdown
+    file.
 
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Pankyll]: https://www.pankyll.org
