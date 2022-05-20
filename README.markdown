@@ -1,8 +1,8 @@
 ---
 title: Pankyll Documentation README
 author: Christian Külker
-version: 0.1.9
-date: 2022-05-19
+version: 0.2.0
+date: 2022-05-20
 
 ---
 
@@ -24,6 +24,7 @@ well give first stop information about known themes.
 
 | Version | Date       | Notes                                                |
 | ------- | ---------- | ---------------------------------------------------- |
+| 0.2.0   | 2022-05-20 | Update Simplicisimus theme page                      |
 | 0.1.9   | 2022-05-19 | Shorten title on some some pages                     |
 | 0.1.8   | 2022-05-09 | Fix duplicate YAML TOC entry in getting_started.md   |
 |         |            | Remove duplicate license entry from README.markdown  |
