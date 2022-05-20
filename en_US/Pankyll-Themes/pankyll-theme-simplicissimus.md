@@ -1,7 +1,7 @@
 ---
 title: Pankyll Theme Simplicissimus
 author: Christian Külker
-date: 2020-04-21
+date: 2022-05-20
 type: blog
 keywords:
  - Pankyll Theme Simplicissmus
@@ -50,6 +50,24 @@ git submodule init
 * Navigation
 * Keywords
 
+## Simplification
+
+Some features of other themes are as of now deliberately not supported:
+
+* Javascipt (JS)
+* Table of contents (TOC)
+* Word count
+* Imprint (might be added later)
+* CSS
+* PDF
+* Latest (top10)
+
+Some of the features are defined in the configuration **feature** section. The
+presence of this feature in the configuration is just to speed up [Pankyll] and
+setting them to `True` will make [Pankyll] run longer, but not create the links
+or other snippets to include this features.
+
 [CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [Simplicissimus]: /en_US/Pankyll-Themes/pankyll-theme-simplicissimus.html
+[Pankyll]: https://www.pankyll.org/
