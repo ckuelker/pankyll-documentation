@@ -35,16 +35,16 @@ description: Website providing Pankyll documentation and collecting themes
 
 ---
 
-[Pankyll] is is a static [HTML] website generator written in [Python] using
+[Pankyll] is a static [HTML] website generator written in [Python] using
 [Pandoc] to generate easy to deploy [HTML] websites including [PDF] conversion
 from [Markdown] files. This website provides [user documentation] about
 installing and using the static website generator [Pankyll] for your website
-and it collects unique layouts, called [themes] and [example] repositories for
-[themes]. The latest version of this [documentation] can be found at the
-[Pankyll] web page [https://www.pankyll.org] and it can be cloned via the
+and it collects unique layouts called [themes] and [example] repositories for
+[themes]. The latest version of this [documentation] can be found on the
+[Pankyll] website <https://www.pankyll.org> and can be cloned via the
 [documentation git repository]. If you have written a [Pankyll] [theme] and
-would like to share it with the world and be promoted via this page, consider
-to fork the [git] repository and make a pull request.
+would like to share it with the world and be promoted via this site, consider
+forking the [git] repository and making a pull request.
 
 ### Most Important Features
 
@@ -67,9 +67,9 @@ to fork the [git] repository and make a pull request.
 
 ### Other Projects Using Pandoc
 
-There are other projects using [Pandoc] to generate [HTML] pages. The two
-projects mentioned here have not been tested, they might or might not work for
-you. Just in case [Pankyll] do not fit your purpose you could have a look.
+There are other projects that use [Pandoc] to generate [HTML] pages. The two
+mentioned here have not been tested, they may or may not work for you. Just in
+case [Pankyll] does not fit your purpose, you might want to take a look.
 
 * [Will Styler] Shell building a Website using [Pandoc], [Markdown], and Static
   HTML
