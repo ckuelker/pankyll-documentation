@@ -1,18 +1,18 @@
 ---
 title: Pankyll Documentation README
 author: Christian Külker
-version: 0.2.0
-date: 2022-05-20
+version: 0.2.1
+date: 2023-02-25
 
 ---
 
 # Abstract
 
-This document describes briefly the aim and content of the git repository
-[pankyll-documentation]. The goal of [pankyll-documentation] is to collect
-generic documentation for [Pankyll] and [Pankyll] theme examples by providing a
-git repository with [Markdown] files that explain [Pankyll] and its features as
-well give first stop information about known themes.
+This document briefly describes the purpose and contents of the git repository
+[pankyll-documentation]. The goal of pankyll-documentation is to collect
+generic documentation for [Pankyll] and Pankyll theme examples by providing a
+git repository with [Markdown] files that explain Pankyll and its features as
+well as give first stop information about known themes.
 
 ![Github license](https://img.shields.io/github/license/ckuelker/pankyll-documentation.svg)
 ![Github issues](https://img.shields.io/github/issues/ckuelker/pankyll-documentation.svg?style=popout-square)
@@ -24,6 +24,10 @@ well give first stop information about known themes.
 
 | Version | Date       | Notes                                                |
 | ------- | ---------- | ---------------------------------------------------- |
+| 0.2.1   | 2023-02-25 | LICENSE.markdown -> COPYING (GNU standard)           |
+|         |            | COPYING: change format to text (licensee)            |
+|         |            | README.markdown, Bump copyright year                 |
+|         |            | en_US/index.md (improve wording)                     |
 | 0.2.0   | 2022-05-20 | Update Simplicisimus theme page                      |
 | 0.1.9   | 2022-05-19 | Shorten title on some some pages                     |
 | 0.1.8   | 2022-05-09 | Fix duplicate YAML TOC entry in getting_started.md   |
@@ -41,14 +45,14 @@ well give first stop information about known themes.
 
 # Introduction
 
-The first aim of this [pankyll-documentation] repository is to give a central
-hub for [Pankyll] related documentation and also collect [Pankyll] themes and
-their information. A second goal is to use this repository as git-sub
-repository to give content to [Pankyll] theme examples. This repository uses
-two kind of [Markdown] files. The first kind of [Markdown] files describing
-this repository on a meta level and have the ending `*.markdown`. The  second
-kind represents the content of this repository and is also used by [Pankyll]
-itself. This files have the ending `*.md`.
+The first goal of this [pankyll-documentation] repository is to provide a
+central hub for [Pankyll]-related documentation and also to collect Pankyll
+topics and their information. A second goal is to use this repository as a
+git-sub repository to give content to Pankyll theme examples. This repository
+uses two types of [Markdown] files. The first kind of Markdown files describe
+this repository on a meta level and have the extension `*.markdown`. The second
+kind represents the content of this repository and is also used by Pankyll
+itself. These files have the extension `*.md`.
 
 # Author
 
@@ -56,8 +60,7 @@ itself. This files have the ending `*.md`.
 
 # License And Copyright
 
-    Copyright (C) 2020, 2021, 2022 by Christian Kuelker, see LICENSE.markdown
-    file.
+    Copyright (C) 2020 - 2023 by Christian Kuelker, see COPYING file.
 
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Pankyll]: https://www.pankyll.org
